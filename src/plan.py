@@ -20,8 +20,7 @@ room_colors = {
     'Storage':'olivedrab',
     'Outdoor':'lawngreen',
     # color to white for ones you want to ignore
-    'Other': 'hotpink',
-    # room type not mentioned will be colored grey
+    'Other': 'hotpink'
 }
 
 room_name_map = {
@@ -202,6 +201,14 @@ class Plan:
                 else:
                     self.relation.append((room1.name, 0, room2.name))
 
+    def get_adjacency_list(self) -> dict:
+        relation_adj_list = {name : {} for name in self.name2room}
+        for name1, label, name2 in self.relation:
+            if label != 0:
+                relation_adj_list[name1][name2] = label
+                relation_adj_list[name2][name1] = label
+        return relation_adj_list
+
     def generate_relation_svg(self) -> 'Tag':
         attrs = {
             'xmlns' : 'http://www.w3.org/2000/svg', 
@@ -255,7 +262,7 @@ class Plan:
 
 
 def main():
-    n = 437
+    n = 283
     input_path = '../data_lyh/cubicasa5k/high_quality_architectural/{}/model.svg'.format(n)
     output_path = '../data_lyh/vis/{}_room_new.svg'.format(n)
 
@@ -269,7 +276,7 @@ def main():
     # print(list(plan.name2room['LivingRoom_1'].adjacent_doors)[0])
     # print(plan.name2door[list(plan.name2room['LivingRoom_1'].adjacent_doors)[0]].to_shapely_polygon().buffer(1.0).intersection(plan.name2room['Kitchen_1'].to_shapely_polygon()).area)
     # print(plan.name2door[list(plan.name2room['LivingRoom_1'].adjacent_doors)[0]].to_shapely_polygon().buffer(1.0).intersection(plan.name2room['LivingRoom_1'].to_shapely_polygon()).area)
-    # print(plan.relation)
+    print(plan.get_adjacency_list())
     with open(output_path, 'w') as output:
         output.write(str(plan.generate_relation_svg()))
     
