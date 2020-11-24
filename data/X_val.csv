@@ -1,0 +1,2213 @@
+,path,newpath,space,graph_matrix,room_num,other_room_num,other_ratio,nodes
+3113,D:/Dataset/cubicasa5k//high_quality/12269/model.svg,12269,"['Bedroom0', 'Other0', 'Entry0', 'Entry1', 'Bedroom1', 'Bedroom2', 'Kitchen0', 'LivingRoom0', 'Other1', 'Bath0', 'Outdoor0', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,2,0.16666666666666666,"[11, 46, 26, 27, 12, 13, 36, 41, 47, 1, 60, 61]"
+2082,D:/Dataset/cubicasa5k//high_quality_architectural/13249/model.svg,13249,"['Outdoor0', 'LivingRoom0', 'LivingRoom1', 'Kitchen0', 'Other0', 'Bath0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[60, 41, 42, 36, 46, 1, 47]"
+256,D:/Dataset/cubicasa5k//high_quality_architectural/793/model.svg,793,"['LivingRoom0', 'Entry0', 'LivingRoom1', 'Kitchen0', 'Other0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[41, 26, 42, 36, 46, 1, 70]"
+2462,D:/Dataset/cubicasa5k//high_quality_architectural/14817/model.svg,14817,"['Outdoor0', 'Other0', 'Other1', 'Bath0', 'Other2', 'Other3', 'Storage0', 'Other4', 'Other5', 'Other6', 'Garage0', 'Outdoor1', 'Dining0', 'Kitchen0', 'Other7', 'LivingRoom0', 'Entry0', 'Bath1', 'Storage1', 'Bath2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",20,8,0.4,"[60, 46, 47, 1, 52, 53, 70, 54, 55, 56, 31, 61, 21, 36, 57, 41, 26, 2, 71, 3]"
+3272,D:/Dataset/cubicasa5k//high_quality/20223/model.svg,20223,"['Storage0', 'Entry0', 'Bath0', 'LivingRoom0', 'Kitchen0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[70, 26, 1, 41, 36, 46]"
+1444,D:/Dataset/cubicasa5k//high_quality_architectural/11001/model.svg,11001,"['Entry0', 'Bath0', 'Kitchen0', 'Bedroom0', 'Entry1', 'LivingRoom0', 'Dining0', 'Outdoor0', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,0,0.0,"[26, 1, 36, 11, 27, 41, 21, 60, 61]"
+1748,D:/Dataset/cubicasa5k//high_quality_architectural/11949/model.svg,11949,"['Entry0', 'Outdoor0', 'Outdoor1', 'Kitchen0', 'LivingRoom0', 'Storage0', 'Entry1', 'Bath0', 'Bath1', 'Bedroom0', 'Bedroom1', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 7. ... 0. 0. 0.]
+ [0. 6. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,1,0.08333333333333333,"[26, 60, 61, 36, 41, 70, 27, 1, 2, 11, 12, 46]"
+1720,D:/Dataset/cubicasa5k//high_quality_architectural/11854/model.svg,11854,"['Bath0', 'Other0', 'Entry0', 'LivingRoom0', 'Kitchen0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,1,0.2,"[1, 46, 26, 41, 36]"
+1941,D:/Dataset/cubicasa5k//high_quality_architectural/12699/model.svg,12699,"['Kitchen0', 'Entry0', 'LivingRoom0', 'LivingRoom1', 'Bath0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,0,0.0,"[36, 26, 41, 42, 1, 2]"
+3011,D:/Dataset/cubicasa5k//high_quality/10392/model.svg,10392,"['Bath0', 'Bedroom0', 'Kitchen0', 'Entry0', 'LivingRoom0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,0,0.0,"[1, 11, 36, 26, 41]"
+473,D:/Dataset/cubicasa5k//high_quality_architectural/8314/model.svg,8314,"['Outdoor0', 'Entry0', 'Other0', 'LivingRoom0', 'Kitchen0', 'Bedroom0', 'Bath0', 'Bedroom1', 'Other1', 'Storage0', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,3,0.2727272727272727,"[60, 26, 46, 41, 36, 11, 1, 12, 47, 70, 52]"
+3343,D:/Dataset/cubicasa5k//high_quality_architectural/9795/model.svg,9795,"['Entry0', 'LivingRoom0', 'Bedroom0', 'Bath0', 'Storage0', 'Other0', 'Bath1', 'Entry1', 'Kitchen0', 'Other1', 'Storage1', 'Outdoor0', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 5. ... 0. 0. 0.]
+ [0. 8. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,2,0.15384615384615385,"[26, 41, 11, 1, 70, 46, 2, 27, 36, 47, 71, 60, 61]"
+820,D:/Dataset/cubicasa5k//high_quality_architectural/3508/model.svg,3508,"['LivingRoom0', 'Outdoor0', 'Kitchen0', 'Entry0', 'Other0', 'Other1', 'Bedroom0', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,2,0.25,"[41, 60, 36, 26, 46, 47, 11, 27]"
+2323,D:/Dataset/cubicasa5k//high_quality_architectural/14290/model.svg,14290,"['Bath0', 'Bedroom0', 'Outdoor0', 'Dining0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom1', 'Storage0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,1,0.1,"[1, 11, 60, 21, 36, 41, 26, 12, 70, 46]"
+49,D:/Dataset/cubicasa5k//high_quality_architectural/8155/model.svg,8155,"['Outdoor0', 'Bath0', 'Bath1', 'Kitchen0', 'LivingRoom0', 'Other0', 'Entry0', 'Garage0', 'Outdoor1', 'Outdoor2', 'Garage1', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Storage0', 'Other1', 'Entry1', 'Storage1', 'Bath2', 'Storage2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 3. ... 0. 0. 0.]
+ [0. 4. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",21,2,0.09523809523809523,"[60, 1, 2, 36, 41, 46, 26, 31, 61, 62, 32, 11, 12, 13, 14, 70, 47, 27, 71, 3, 72]"
+3078,D:/Dataset/cubicasa5k//high_quality/11686/model.svg,11686,"['Outdoor0', 'Outdoor1', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bedroom0', 'Bath0', 'Other0', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[60, 61, 41, 36, 26, 11, 1, 46, 27]"
+1891,D:/Dataset/cubicasa5k//high_quality_architectural/12556/model.svg,12556,"['Storage0', 'Bath0', 'LivingRoom0', 'Kitchen0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,1,0.2,"[70, 1, 41, 36, 46]"
+2137,D:/Dataset/cubicasa5k//high_quality_architectural/13436/model.svg,13436,"['Entry0', 'Kitchen0', 'Other0', 'Other1', 'Outdoor0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[26, 36, 46, 47, 60, 1]"
+2328,D:/Dataset/cubicasa5k//high_quality_architectural/14299/model.svg,14299,"['Outdoor0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Entry0', 'Other0', 'Bedroom1', 'Bath0', 'Storage0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[60, 41, 11, 36, 26, 46, 12, 1, 70, 47]"
+1543,D:/Dataset/cubicasa5k//high_quality_architectural/11242/model.svg,11242,"['Kitchen0', 'Dining0', 'Entry0', 'LivingRoom0', 'Outdoor0', 'Bedroom0', 'Bath0', 'Other0', 'Storage0', 'Storage1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[36, 21, 26, 41, 60, 11, 1, 46, 70, 71, 27]"
+2175,D:/Dataset/cubicasa5k//high_quality_architectural/13607/model.svg,13607,"['Kitchen0', 'Other0', 'Entry0', 'Outdoor0', 'LivingRoom0', 'Bath0', 'Other1', 'Entry1', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,3,0.3333333333333333,"[36, 46, 26, 60, 41, 1, 47, 27, 52]"
+2517,D:/Dataset/cubicasa5k//colorful/967/model.svg,967,"['LivingRoom0', 'Outdoor0', 'LivingRoom1', 'Kitchen0', 'Other0', 'Bath0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Entry1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 6. ... 0. 0. 0.]
+ [0. 7. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[41, 60, 42, 36, 46, 1, 26, 11, 12, 27, 2]"
+3327,D:/Dataset/cubicasa5k//high_quality_architectural/6347/model.svg,6347,"['Bath0', 'Kitchen0', 'Other0', 'Entry0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",4,1,0.25,"[1, 36, 46, 26]"
+2227,D:/Dataset/cubicasa5k//high_quality_architectural/13769/model.svg,13769,"['Kitchen0', 'Other0', 'LivingRoom0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",4,1,0.25,"[36, 46, 41, 1]"
+1501,D:/Dataset/cubicasa5k//high_quality_architectural/11108/model.svg,11108,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bedroom0', 'Bath0', 'Storage0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 41, 36, 26, 11, 1, 70, 46]"
+2122,D:/Dataset/cubicasa5k//high_quality_architectural/13373/model.svg,13373,"['Entry0', 'Other0', 'Entry1', 'Bath0', 'LivingRoom0', 'Kitchen0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[26, 46, 27, 1, 41, 36, 60]"
+1210,D:/Dataset/cubicasa5k//high_quality_architectural/10119/model.svg,10119,"['Other0', 'Outdoor0', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bedroom0', 'Bath0', 'Other1', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 3. ... 0. 0. 0.]
+ [0. 4. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[46, 60, 41, 36, 26, 11, 1, 47, 2, 27]"
+2360,D:/Dataset/cubicasa5k//high_quality_architectural/14404/model.svg,14404,"['Outdoor0', 'Kitchen0', 'LivingRoom0', 'Other0', 'Bath0', 'Storage0', 'Other1', 'Storage1', 'Entry0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,2,0.2222222222222222,"[60, 36, 41, 46, 1, 70, 47, 71, 26]"
+1219,D:/Dataset/cubicasa5k//high_quality_architectural/10140/model.svg,10140,"['Bath0', 'Outdoor0', 'Bath1', 'Storage0', 'Storage1', 'Bedroom0', 'Outdoor1', 'Outdoor2', 'Other0', 'Bedroom1', 'Entry0', 'Storage2', 'Kitchen0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,1,0.07692307692307693,"[1, 60, 2, 70, 71, 11, 61, 62, 46, 12, 26, 72, 36]"
+679,D:/Dataset/cubicasa5k//high_quality_architectural/6641/model.svg,6641,"['Outdoor0', 'Outdoor1', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Storage0', 'Other0', 'Other1', 'Garage0', 'Bedroom0', 'Bedroom1', 'Other2', 'Storage1', 'Bedroom2', 'Other3', 'Entry1', 'Storage2', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",18,4,0.2222222222222222,"[60, 61, 36, 26, 41, 70, 46, 47, 31, 11, 12, 52, 71, 13, 53, 27, 72, 1]"
+243,D:/Dataset/cubicasa5k//high_quality_architectural/7918/model.svg,7918,"['Outdoor0', 'Outdoor1', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",3,1,0.3333333333333333,"[60, 61, 46]"
+3209,D:/Dataset/cubicasa5k//high_quality/13727/model.svg,13727,"['Outdoor0', 'LivingRoom0', 'Entry0', 'Kitchen0', 'Dining0', 'Bedroom0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,0,0.0,"[60, 41, 26, 36, 21, 11, 1, 70]"
+2121,D:/Dataset/cubicasa5k//high_quality_architectural/13370/model.svg,13370,"['Outdoor0', 'LivingRoom0', 'Other0', 'Bedroom0', 'Bedroom1', 'Kitchen0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[60, 41, 46, 11, 12, 36, 47]"
+1539,D:/Dataset/cubicasa5k//high_quality_architectural/11227/model.svg,11227,"['LivingRoom0', 'Entry0', 'Kitchen0', 'Dining0', 'Outdoor0', 'Garage0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Storage0', 'Kitchen1', 'Storage1', 'Other0', 'Storage2', 'Other1', 'Storage3', 'Storage4', 'Entry1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",20,2,0.1,"[41, 26, 36, 21, 60, 31, 11, 12, 13, 1, 70, 37, 71, 46, 72, 47, 73, 74, 27, 2]"
+1981,D:/Dataset/cubicasa5k//high_quality_architectural/12852/model.svg,12852,"['LivingRoom0', 'Kitchen0', 'Entry0', 'Outdoor0', 'Bedroom0', 'Other0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[41, 36, 26, 60, 11, 46, 47]"
+1598,D:/Dataset/cubicasa5k//high_quality_architectural/11449/model.svg,11449,"['Outdoor0', 'Outdoor1', 'Other0', 'LivingRoom0', 'Entry0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Storage0', 'Other1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 7. ... 0. 0. 0.]
+ [0. 6. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,2,0.16666666666666666,"[60, 61, 46, 41, 26, 36, 11, 12, 1, 70, 47, 2]"
+2453,D:/Dataset/cubicasa5k//high_quality_architectural/14787/model.svg,14787,"['Entry0', 'Kitchen0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Storage0', 'Bath0', 'Other0', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[26, 36, 41, 11, 12, 13, 70, 1, 46, 2, 27]"
+1054,D:/Dataset/cubicasa5k//high_quality_architectural/7763/model.svg,7763,"['Outdoor0', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Outdoor1', 'Other0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,2,0.18181818181818182,"[60, 36, 26, 41, 61, 46, 11, 12, 1, 47, 2]"
+3106,D:/Dataset/cubicasa5k//high_quality/12168/model.svg,12168,"['LivingRoom0', 'Entry0', 'Outdoor0', 'Bedroom0', 'Bedroom1', 'Kitchen0', 'Bath0', 'Storage0', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,0,0.0,"[41, 26, 60, 11, 12, 36, 1, 70, 71]"
+579,D:/Dataset/cubicasa5k//high_quality_architectural/719/model.svg,719,"['Storage0', 'Other0', 'Other1', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Other2', 'Entry0', 'LivingRoom0', 'Kitchen0', 'Dining0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,3,0.25,"[70, 46, 47, 11, 12, 13, 52, 26, 41, 36, 21, 60]"
+1433,D:/Dataset/cubicasa5k//high_quality_architectural/10767/model.svg,10767,"['Outdoor0', 'Outdoor1', 'Outdoor2', 'Outdoor3', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Other0', 'Storage0', 'Other1', 'Storage1', 'Entry1', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",15,2,0.13333333333333333,"[60, 61, 62, 63, 36, 26, 41, 11, 12, 46, 70, 47, 71, 27, 1]"
+1920,D:/Dataset/cubicasa5k//high_quality_architectural/12620/model.svg,12620,"['Storage0', 'Outdoor0', 'LivingRoom0', 'Dining0', 'Kitchen0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Storage1', 'Bath0', 'Storage2', 'Bath1', 'Bath2', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 4. ... 0. 0. 0.]
+ [0. 3. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",15,0,0.0,"[70, 60, 41, 21, 36, 26, 11, 12, 13, 71, 1, 72, 2, 3, 61]"
+1823,D:/Dataset/cubicasa5k//high_quality_architectural/12215/model.svg,12215,"['Outdoor0', 'Other0', 'LivingRoom0', 'Bath0', 'Kitchen0', 'Bedroom0', 'Bedroom1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[60, 46, 41, 1, 36, 11, 12]"
+1642,D:/Dataset/cubicasa5k//high_quality_architectural/11602/model.svg,11602,"['Outdoor0', 'Outdoor1', 'LivingRoom0', 'LivingRoom1', 'Other0', 'Kitchen0', 'Bath0', 'Other1', 'Entry0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,2,0.2222222222222222,"[60, 61, 41, 42, 46, 36, 1, 47, 26]"
+1163,D:/Dataset/cubicasa5k//high_quality_architectural/9140/model.svg,9140,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bedroom0', 'Other0', 'Entry1', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,2,0.25,"[60, 41, 36, 26, 11, 46, 27, 47]"
+2343,D:/Dataset/cubicasa5k//high_quality_architectural/14346/model.svg,14346,"['Outdoor0', 'Dining0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Other0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,2,0.25,"[60, 21, 36, 41, 26, 11, 46, 47]"
+1260,D:/Dataset/cubicasa5k//high_quality_architectural/10231/model.svg,10231,"['Outdoor0', 'Outdoor1', 'Entry0', 'Kitchen0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[60, 61, 26, 36, 41, 11, 12, 1, 46]"
+1576,D:/Dataset/cubicasa5k//high_quality_architectural/11359/model.svg,11359,"['Other0', 'Other1', 'Outdoor0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bath0', 'Storage0', 'Other2', 'Other3', 'Other4']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,5,0.45454545454545453,"[46, 47, 60, 36, 41, 26, 1, 70, 52, 53, 54]"
+3323,D:/Dataset/cubicasa5k//high_quality_architectural/1660/model.svg,1660,"['Other0', 'Kitchen0', 'Bedroom0', 'Bath0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,2,0.4,"[46, 36, 11, 1, 47]"
+1712,D:/Dataset/cubicasa5k//high_quality_architectural/11833/model.svg,11833,"['Outdoor0', 'Bath0', 'Other0', 'LivingRoom0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Entry0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 1, 46, 41, 36, 11, 12, 26]"
+3447,D:/Dataset/cubicasa5k//high_quality_architectural/834/model.svg,834,"['Outdoor0', 'Bedroom0', 'Storage0', 'Entry0', 'LivingRoom0', 'Outdoor1', 'Other0', 'Bedroom1', 'Bath0', 'Storage1', 'Other1', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,2,0.15384615384615385,"[60, 11, 70, 26, 41, 61, 46, 12, 1, 71, 47, 2, 27]"
+1931,D:/Dataset/cubicasa5k//high_quality_architectural/12665/model.svg,12665,"['Bath0', 'Other0', 'Storage0', 'Storage1', 'Bath1', 'Other1', 'Other2', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,3,0.2727272727272727,"[1, 46, 70, 71, 2, 47, 52, 36, 41, 26, 60]"
+3190,D:/Dataset/cubicasa5k//high_quality/13457/model.svg,13457,"['LivingRoom0', 'Kitchen0', 'Storage0', 'Bedroom0', 'Entry0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[41, 36, 70, 11, 26, 46]"
+2095,D:/Dataset/cubicasa5k//high_quality_architectural/13301/model.svg,13301,"['Outdoor0', 'LivingRoom0', 'Entry0', 'Kitchen0', 'Other0', 'Entry1', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[60, 41, 26, 36, 46, 27, 47]"
+1597,D:/Dataset/cubicasa5k//high_quality_architectural/11440/model.svg,11440,"['Dining0', 'Kitchen0', 'Outdoor0', 'Outdoor1', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Kitchen1', 'Bath0', 'Other0', 'Entry1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,1,0.07142857142857142,"[21, 36, 60, 61, 26, 41, 11, 12, 70, 37, 1, 46, 27, 2]"
+735,D:/Dataset/cubicasa5k//high_quality_architectural/634/model.svg,634,"['Outdoor0', 'Other0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Bath0', 'Other1', 'Entry0', 'Bedroom2', 'Bath1', 'Storage1', 'LivingRoom0', 'Kitchen0', 'Entry1', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",15,2,0.13333333333333333,"[60, 46, 11, 12, 70, 1, 47, 26, 13, 2, 71, 41, 36, 27, 61]"
+765,D:/Dataset/cubicasa5k//high_quality_architectural/7105/model.svg,7105,"['Other0', 'Other1', 'LivingRoom0', 'Kitchen0', 'Other2', 'Outdoor0', 'Other3', 'Bath0', 'Other4', 'Bath1', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,5,0.45454545454545453,"[46, 47, 41, 36, 52, 60, 53, 1, 54, 2, 61]"
+1269,D:/Dataset/cubicasa5k//high_quality_architectural/10267/model.svg,10267,"['Storage0', 'Outdoor0', 'Outdoor1', 'Outdoor2', 'Kitchen0', 'Dining0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'LivingRoom1', 'Other0', 'Storage1', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Bath0', 'Storage2', 'Storage3', 'Other1', 'Bath1', 'Other2', 'Bath2', 'Entry1', 'Other3', 'Other4']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",25,5,0.2,"[70, 60, 61, 62, 36, 21, 26, 41, 11, 42, 46, 71, 12, 13, 14, 1, 72, 73, 47, 2, 52, 3, 27, 53, 54]"
+1234,D:/Dataset/cubicasa5k//high_quality_architectural/10162/model.svg,10162,"['Other0', 'Storage0', 'Bedroom0', 'Other1', 'Bedroom1', 'Outdoor0', 'LivingRoom0', 'Entry0', 'Kitchen0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,2,0.2222222222222222,"[46, 70, 11, 47, 12, 60, 41, 26, 36]"
+1416,D:/Dataset/cubicasa5k//high_quality_architectural/10735/model.svg,10735,"['Outdoor0', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Other0', 'Bath0', 'Storage0', 'Other1', 'Entry1', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[60, 36, 26, 41, 46, 1, 70, 47, 27, 71]"
+1395,D:/Dataset/cubicasa5k//high_quality_architectural/10672/model.svg,10672,"['Storage0', 'Other0', 'Bath0', 'Outdoor0', 'Bedroom0', 'Entry0', 'Kitchen0', 'Dining0', 'LivingRoom0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[70, 46, 1, 60, 11, 26, 36, 21, 41]"
+661,D:/Dataset/cubicasa5k//high_quality_architectural/1409/model.svg,1409,"['Outdoor0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bath0', 'Other0', 'Storage0', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,1,0.1,"[60, 36, 41, 26, 11, 1, 46, 70, 2, 27]"
+737,D:/Dataset/cubicasa5k//high_quality_architectural/7700/model.svg,7700,"['Garage0', 'Entry0', 'Other0', 'Bath0', 'Bath1', 'Storage0', 'Kitchen0', 'Storage1', 'Storage2', 'LivingRoom0', 'Bedroom0', 'Entry1', 'Bedroom1', 'Bedroom2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,1,0.07142857142857142,"[31, 26, 46, 1, 2, 70, 36, 71, 72, 41, 11, 27, 12, 13]"
+412,D:/Dataset/cubicasa5k//high_quality_architectural/160/model.svg,160,"['Bedroom0', 'Outdoor0', 'Other0', 'LivingRoom0', 'Bedroom1', 'Kitchen0', 'Other1', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,2,0.25,"[11, 60, 46, 41, 12, 36, 47, 70]"
+1159,D:/Dataset/cubicasa5k//high_quality_architectural/7955/model.svg,7955,"['Outdoor0', 'LivingRoom0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",3,0,0.0,"[60, 41, 70]"
+511,D:/Dataset/cubicasa5k//high_quality_architectural/5946/model.svg,5946,"['Outdoor0', 'Kitchen0', 'Dining0', 'LivingRoom0', 'Other0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Storage0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[60, 36, 21, 41, 46, 11, 12, 1, 70, 47]"
+993,D:/Dataset/cubicasa5k//high_quality_architectural/5808/model.svg,5808,"['Entry0', 'Storage0', 'Storage1', 'Bath0', 'Entry1', 'Bedroom0', 'LivingRoom0', 'Dining0', 'Kitchen0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,0,0.0,"[26, 70, 71, 1, 27, 11, 41, 21, 36, 60]"
+1527,D:/Dataset/cubicasa5k//high_quality_architectural/11181/model.svg,11181,"['Other0', 'Dining0', 'Other1', 'Bedroom0', 'Bedroom1', 'Entry0', 'Bath0', 'Other2', 'Outdoor0', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,3,0.3,"[46, 21, 47, 11, 12, 26, 1, 52, 60, 61]"
+1926,D:/Dataset/cubicasa5k//high_quality_architectural/12642/model.svg,12642,"['Outdoor0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,0,0.0,"[60, 26, 41, 11, 36, 1, 70]"
+1946,D:/Dataset/cubicasa5k//high_quality_architectural/12711/model.svg,12711,"['Outdoor0', 'Entry0', 'LivingRoom0', 'Kitchen0', 'Bedroom0', 'Other0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[60, 26, 41, 36, 11, 46, 47]"
+1734,D:/Dataset/cubicasa5k//high_quality_architectural/11888/model.svg,11888,"['Outdoor0', 'LivingRoom0', 'LivingRoom1', 'Kitchen0', 'Entry0', 'Bath0', 'Bedroom0', 'Bedroom1', 'Other0', 'Bath1', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[60, 41, 42, 36, 26, 1, 11, 12, 46, 2, 70]"
+105,D:/Dataset/cubicasa5k//high_quality_architectural/9557/model.svg,9557,"['Outdoor0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Other0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[60, 41, 11, 36, 46, 47]"
+2401,D:/Dataset/cubicasa5k//high_quality_architectural/14575/model.svg,14575,"['Other0', 'Other1', 'Kitchen0', 'Bedroom0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,2,0.4,"[46, 47, 36, 11, 1]"
+3229,D:/Dataset/cubicasa5k//high_quality/14593/model.svg,14593,"['Other0', 'Other1', 'Other2', 'Other3', 'Storage0', 'Other4', 'Other5', 'Other6', 'Storage1', 'Bath0', 'Storage2', 'Bath1', 'Bedroom0', 'Bedroom1', 'Kitchen0', 'Bedroom2', 'Other7', 'Entry0', 'LivingRoom0', 'Dining0', 'Other8', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",22,9,0.4090909090909091,"[46, 47, 52, 53, 70, 54, 55, 56, 71, 1, 72, 2, 11, 12, 36, 13, 57, 26, 41, 21, 58, 60]"
+1424,D:/Dataset/cubicasa5k//high_quality_architectural/10746/model.svg,10746,"['Storage0', 'Bath0', 'Outdoor0', 'Bedroom0', 'Kitchen0', 'LivingRoom0', 'Entry0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,0,0.0,"[70, 1, 60, 11, 36, 41, 26]"
+92,D:/Dataset/cubicasa5k//high_quality_architectural/851/model.svg,851,"['Storage0', 'Other0', 'Other1', 'Bath0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'LivingRoom0', 'Entry0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[70, 46, 47, 1, 36, 11, 12, 41, 26, 60]"
+1330,D:/Dataset/cubicasa5k//high_quality_architectural/10479/model.svg,10479,"['Other0', 'Other1', 'Other2', 'Bath0', 'Bedroom0', 'Entry0', 'LivingRoom0', 'Kitchen0', 'Dining0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,3,0.3333333333333333,"[46, 47, 52, 1, 11, 26, 41, 36, 21]"
+1394,D:/Dataset/cubicasa5k//high_quality_architectural/10670/model.svg,10670,"['Other0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Other1', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[46, 41, 11, 36, 47, 70]"
+373,D:/Dataset/cubicasa5k//high_quality_architectural/7542/model.svg,7542,"['Other0', 'Other1', 'Kitchen0', 'Bedroom0', 'LivingRoom0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[46, 47, 36, 11, 41, 60]"
+669,D:/Dataset/cubicasa5k//high_quality_architectural/6503/model.svg,6503,"['Outdoor0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bath0', 'Bedroom1', 'Other0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 1. ... 0. 0. 0.]
+ [0. 2. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[60, 36, 41, 26, 11, 1, 12, 46, 2]"
+889,D:/Dataset/cubicasa5k//high_quality_architectural/6074/model.svg,6074,"['Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bath0', 'Outdoor0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[36, 41, 26, 11, 1, 60, 46]"
+1149,D:/Dataset/cubicasa5k//high_quality_architectural/3913/model.svg,3913,"['Other0', 'Other1', 'Other2', 'Outdoor0', 'Outdoor1', 'Outdoor2', 'Other3', 'Other4', 'Entry0', 'Kitchen0', 'Storage0', 'Bedroom0', 'Bedroom1', 'Other5', 'Other6', 'Storage1', 'Storage2', 'Other7', 'Storage3', 'Entry1', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",21,8,0.38095238095238093,"[46, 47, 52, 60, 61, 62, 53, 54, 26, 36, 70, 11, 12, 55, 56, 71, 72, 57, 73, 27, 1]"
+232,D:/Dataset/cubicasa5k//high_quality_architectural/6004/model.svg,6004,"['LivingRoom0', 'Kitchen0', 'Entry0', 'Outdoor0', 'Other0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Storage0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[41, 36, 26, 60, 46, 11, 12, 1, 70, 47]"
+3149,D:/Dataset/cubicasa5k//high_quality/12980/model.svg,12980,"['Outdoor0', 'Other0', 'Entry0', 'Kitchen0', 'Dining0', 'Other1', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[60, 46, 26, 36, 21, 47, 1]"
+1755,D:/Dataset/cubicasa5k//high_quality_architectural/11975/model.svg,11975,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Other0', 'Other1', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[60, 41, 36, 46, 47, 70]"
+2247,D:/Dataset/cubicasa5k//high_quality_architectural/13818/model.svg,13818,"['Outdoor0', 'Outdoor1', 'Kitchen0', 'Dining0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Storage1', 'Other0', 'Bath0', 'Storage2', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",15,1,0.06666666666666667,"[60, 61, 36, 21, 41, 26, 11, 12, 70, 71, 46, 1, 72, 2, 27]"
+3511,D:/Dataset/cubicasa5k//colorful/14929/model.svg,14929,"['Other0', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Outdoor0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[46, 41, 36, 26, 60, 1]"
+606,D:/Dataset/cubicasa5k//high_quality_architectural/8021/model.svg,8021,"['Outdoor0', 'Other0', 'Storage0', 'Bath0', 'Entry0', 'Bedroom0', 'Kitchen0', 'LivingRoom0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 46, 70, 1, 26, 11, 36, 41]"
+1322,D:/Dataset/cubicasa5k//high_quality_architectural/10428/model.svg,10428,"['Entry0', 'Kitchen0', 'LivingRoom0', 'Outdoor0', 'Bedroom0', 'Bath0', 'Other0', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[26, 36, 41, 60, 11, 1, 46, 27]"
+99,D:/Dataset/cubicasa5k//high_quality_architectural/6030/model.svg,6030,"['Outdoor0', 'Outdoor1', 'Kitchen0', 'LivingRoom0', 'Bedroom0', 'Entry0', 'Bath0', 'Other0', 'Entry1', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,1,0.1,"[60, 61, 36, 41, 11, 26, 1, 46, 27, 70]"
+829,D:/Dataset/cubicasa5k//high_quality_architectural/538/model.svg,538,"['Dining0', 'LivingRoom0', 'LivingRoom1', 'Bedroom0', 'Other0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Storage0', 'Bath1', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 2. ... 0. 0. 0.]
+ [0. 1. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[21, 41, 42, 11, 46, 12, 13, 1, 70, 2, 60]"
+387,D:/Dataset/cubicasa5k//high_quality_architectural/7948/model.svg,7948,"['Kitchen0', 'Outdoor0', 'LivingRoom0', 'Bedroom0', 'Entry0', 'Bath0', 'Storage0', 'Other0', 'Entry1', 'Outdoor1', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[36, 60, 41, 11, 26, 1, 70, 46, 27, 61, 71]"
+306,D:/Dataset/cubicasa5k//high_quality_architectural/9231/model.svg,9231,"['Outdoor0', 'Other0', 'Kitchen0', 'Entry0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,1,0.2,"[60, 46, 36, 26, 1]"
+3208,D:/Dataset/cubicasa5k//high_quality/13719/model.svg,13719,"['Outdoor0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Entry0', 'Kitchen0', 'Bath0', 'Storage0', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,0,0.0,"[60, 41, 11, 12, 26, 36, 1, 70, 27]"
+3284,D:/Dataset/cubicasa5k//high_quality_architectural/6339/model.svg,6339,"['Other0', 'Other1', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Storage0', 'Other2', 'Kitchen0', 'Other3', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,4,0.36363636363636365,"[46, 47, 11, 12, 13, 14, 70, 52, 36, 53, 60]"
+2757,D:/Dataset/cubicasa5k//high_quality/3594/model.svg,3594,"['LivingRoom0', 'Other0', 'Outdoor0', 'Bedroom0', 'Kitchen0', 'Other1', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[41, 46, 60, 11, 36, 47, 70]"
+2977,D:/Dataset/cubicasa5k//high_quality/823/model.svg,823,"['Bedroom0', 'Entry0', 'LivingRoom0', 'Kitchen0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Storage0', 'Bath1', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,0,0.0,"[11, 26, 41, 36, 12, 13, 1, 70, 2, 60]"
+195,D:/Dataset/cubicasa5k//high_quality_architectural/8172/model.svg,8172,"['Outdoor0', 'LivingRoom0', 'Other0', 'Bedroom0', 'Bedroom1', 'Kitchen0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 41, 46, 11, 12, 36, 1, 70]"
+1494,D:/Dataset/cubicasa5k//high_quality_architectural/11085/model.svg,11085,"['Outdoor0', 'LivingRoom0', 'Other0', 'Bedroom0', 'Storage0', 'Kitchen0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,1,0.1,"[60, 41, 46, 11, 70, 36, 12, 13, 1, 2]"
+3261,D:/Dataset/cubicasa5k//high_quality/20056/model.svg,20056,"['LivingRoom0', 'Other0', 'Entry0', 'Outdoor0', 'Outdoor1', 'Storage0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other1', 'Other2', 'Bath1', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,3,0.23076923076923078,"[41, 46, 26, 60, 61, 70, 11, 12, 1, 47, 52, 2, 71]"
+3568,D:/Dataset/cubicasa5k//high_quality/5682/model.svg,5682,"['Outdoor0', 'LivingRoom0', 'Entry0', 'Kitchen0', 'Bedroom0', 'Bath0', 'Bedroom1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,0,0.0,"[60, 41, 26, 36, 11, 1, 12, 27]"
+813,D:/Dataset/cubicasa5k//high_quality_architectural/7610/model.svg,7610,"['Outdoor0', 'LivingRoom0', 'Dining0', 'LivingRoom1', 'Bedroom0', 'Kitchen0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Storage0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 8. ... 0. 0. 0.]
+ [0. 5. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,0,0.0,"[60, 41, 21, 42, 11, 36, 12, 13, 1, 70, 2]"
+2213,D:/Dataset/cubicasa5k//high_quality_architectural/13734/model.svg,13734,"['LivingRoom0', 'Kitchen0', 'Entry0', 'Outdoor0', 'Bedroom0', 'Other0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[41, 36, 26, 60, 11, 46, 47]"
+667,D:/Dataset/cubicasa5k//high_quality_architectural/8333/model.svg,8333,"['Kitchen0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Storage0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,0,0.0,"[36, 26, 41, 11, 70, 1]"
+1331,D:/Dataset/cubicasa5k//high_quality_architectural/10487/model.svg,10487,"['LivingRoom0', 'Kitchen0', 'LivingRoom1', 'Other0', 'Bath0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[41, 36, 42, 46, 1, 47]"
+1662,D:/Dataset/cubicasa5k//high_quality_architectural/11661/model.svg,11661,"['Entry0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Other0', 'Storage0', 'Other1', 'Bath1', 'Other2', 'Other3']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,4,0.3076923076923077,"[26, 41, 11, 36, 12, 13, 1, 46, 70, 47, 2, 52, 53]"
+418,D:/Dataset/cubicasa5k//high_quality_architectural/6268/model.svg,6268,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Other0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 41, 36, 46, 11, 12, 13, 61]"
+1750,D:/Dataset/cubicasa5k//high_quality_architectural/11957/model.svg,11957,"['LivingRoom0', 'Other0', 'Kitchen0', 'Bath0', 'Other1', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[41, 46, 36, 1, 47, 70]"
+2194,D:/Dataset/cubicasa5k//high_quality_architectural/13662/model.svg,13662,"['Bath0', 'Other0', 'Storage0', 'Storage1', 'Bath1', 'Bedroom0', 'Bedroom1', 'LivingRoom0', 'Dining0', 'Kitchen0', 'Entry0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,1,0.08333333333333333,"[1, 46, 70, 71, 2, 11, 12, 41, 21, 36, 26, 60]"
+2613,D:/Dataset/cubicasa5k//colorful/10312/model.svg,10312,"['Entry0', 'Other0', 'Kitchen0', 'Outdoor0', 'Bedroom0', 'Other1', 'Storage0', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,3,0.375,"[26, 46, 36, 60, 11, 47, 70, 52]"
+1109,D:/Dataset/cubicasa5k//high_quality_architectural/9351/model.svg,9351,"['Entry0', 'Outdoor0', 'Storage0', 'Bath0', 'Kitchen0', 'Entry1', 'Bedroom0', 'Storage1', 'LivingRoom0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Storage2', 'Bath1', 'Bath2', 'Bath3', 'Bath4', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",18,1,0.05555555555555555,"[26, 60, 70, 1, 36, 27, 11, 71, 41, 12, 13, 14, 72, 2, 3, 4, 5, 46]"
+2683,D:/Dataset/cubicasa5k//high_quality/3092/model.svg,3092,"['Other0', 'Other1', 'Entry0', 'Bath0', 'Kitchen0', 'Bedroom0', 'LivingRoom0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,2,0.25,"[46, 47, 26, 1, 36, 11, 41, 60]"
+1233,D:/Dataset/cubicasa5k//high_quality_architectural/10161/model.svg,10161,"['Kitchen0', 'LivingRoom0', 'Entry0', 'Outdoor0', 'Bedroom0', 'Other0', 'Storage0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,2,0.25,"[36, 41, 26, 60, 11, 46, 70, 47]"
+1089,D:/Dataset/cubicasa5k//high_quality_architectural/7756/model.svg,7756,"['Outdoor0', 'Dining0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Garage0', 'Outdoor1', 'Bedroom0', 'Storage0', 'Bedroom1', 'Bedroom2', 'Other0', 'Other1', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,2,0.14285714285714285,"[60, 21, 36, 41, 26, 31, 61, 11, 70, 12, 13, 46, 47, 1]"
+1614,D:/Dataset/cubicasa5k//high_quality_architectural/11493/model.svg,11493,"['Bath0', 'Other0', 'Bath1', 'Storage0', 'Other1', 'Entry0', 'Bath2', 'Storage1', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'LivingRoom0', 'Entry1', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,3,0.21428571428571427,"[1, 46, 2, 70, 47, 26, 3, 71, 36, 11, 12, 41, 27, 52]"
+2955,D:/Dataset/cubicasa5k//high_quality/8700/model.svg,8700,"['Kitchen0', 'Other0', 'LivingRoom0', 'Bedroom0', 'Bath0', 'Outdoor0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[36, 46, 41, 11, 1, 60, 70]"
+1786,D:/Dataset/cubicasa5k//high_quality_architectural/12103/model.svg,12103,"['Other0', 'Kitchen0', 'Bath0', 'Bedroom0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",4,1,0.25,"[46, 36, 1, 11]"
+1349,D:/Dataset/cubicasa5k//high_quality_architectural/10542/model.svg,10542,"['Entry0', 'Kitchen0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other0', 'Other1', 'Bath1', 'Storage0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,2,0.18181818181818182,"[26, 36, 41, 11, 12, 1, 46, 47, 2, 70, 60]"
+3127,D:/Dataset/cubicasa5k//high_quality/12653/model.svg,12653,"['Outdoor0', 'Outdoor1', 'Kitchen0', 'Dining0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Storage0', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,0,0.0,"[60, 61, 36, 21, 41, 11, 12, 1, 70, 71]"
+2963,D:/Dataset/cubicasa5k//high_quality/717/model.svg,717,"['Outdoor0', 'Entry0', 'Dining0', 'Kitchen0', 'Bedroom0', 'LivingRoom0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,0,0.0,"[60, 26, 21, 36, 11, 41, 1]"
+2405,D:/Dataset/cubicasa5k//high_quality_architectural/14587/model.svg,14587,"['Outdoor0', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Dining0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Bath0', 'Other0', 'Bath1', 'Entry1', 'Storage1', 'Bath2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,1,0.07142857142857142,"[60, 36, 26, 41, 21, 11, 12, 70, 1, 46, 2, 27, 71, 3]"
+2950,D:/Dataset/cubicasa5k//high_quality/794/model.svg,794,"['Outdoor0', 'Outdoor1', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other0', 'Entry1', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[60, 61, 36, 41, 26, 11, 12, 1, 46, 27, 70]"
+1201,D:/Dataset/cubicasa5k//high_quality_architectural/10089/model.svg,10089,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bedroom0', 'Other0', 'Storage0', 'Storage1', 'Bedroom1', 'Storage2', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,2,0.18181818181818182,"[60, 41, 36, 26, 11, 46, 70, 71, 12, 72, 47]"
+1143,D:/Dataset/cubicasa5k//high_quality_architectural/6162/model.svg,6162,"['Outdoor0', 'Outdoor1', 'Entry0', 'Kitchen0', 'LivingRoom0', 'Storage0', 'Other0', 'Bath0', 'Bedroom0', 'Storage1', 'Bedroom1', 'Bedroom2', 'Bath1', 'Storage2', 'Other1', 'Bath2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 4. ... 0. 0. 0.]
+ [0. 3. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",16,2,0.125,"[60, 61, 26, 36, 41, 70, 46, 1, 11, 71, 12, 13, 2, 72, 47, 3]"
+26,D:/Dataset/cubicasa5k//high_quality_architectural/8422/model.svg,8422,"['Outdoor0', 'Entry0', 'Bedroom0', 'LivingRoom0', 'Outdoor1', 'Other0', 'Other1', 'Bath0', 'Entry1', 'Entry2', 'LivingRoom1', 'Outdoor2', 'Kitchen0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Entry3', 'Kitchen1', 'Other2', 'Other3', 'Other4', 'Storage0', 'Bath1', 'Entry4', 'Bath2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",25,5,0.2,"[60, 26, 11, 41, 61, 46, 47, 1, 27, 28, 42, 62, 36, 12, 13, 14, 29, 37, 52, 53, 54, 70, 2, 30, 3]"
+515,D:/Dataset/cubicasa5k//high_quality_architectural/41/model.svg,41,"['Kitchen0', 'Dining0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Garage0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Storage0', 'Storage1', 'Other0', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,1,0.07142857142857142,"[36, 21, 26, 41, 11, 31, 12, 13, 1, 70, 71, 46, 2, 27]"
+921,D:/Dataset/cubicasa5k//high_quality_architectural/358/model.svg,358,"['Outdoor0', 'Kitchen0', 'Other0', 'LivingRoom0', 'Other1', 'Other2', 'Other3', 'Bath0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 2. ... 0. 0. 0.]
+ [0. 1. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,4,0.4444444444444444,"[60, 36, 46, 41, 47, 52, 53, 1, 2]"
+2365,D:/Dataset/cubicasa5k//high_quality_architectural/14420/model.svg,14420,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bedroom0', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[60, 41, 36, 26, 11, 1, 46]"
+2592,D:/Dataset/cubicasa5k//colorful/8395/model.svg,8395,"['LivingRoom0', 'Kitchen0', 'Entry0', 'Outdoor0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,0,0.0,"[41, 36, 26, 60, 1]"
+988,D:/Dataset/cubicasa5k//high_quality_architectural/4680/model.svg,4680,"['Outdoor0', 'Entry0', 'Kitchen0', 'LivingRoom0', 'Storage0', 'Other0', 'Entry1', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,2,0.25,"[60, 26, 36, 41, 70, 46, 27, 47]"
+384,D:/Dataset/cubicasa5k//high_quality_architectural/1029/model.svg,1029,"['Outdoor0', 'Bedroom0', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Storage0', 'Bath0', 'Other0', 'Entry1', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,1,0.1,"[60, 11, 41, 36, 26, 70, 1, 46, 27, 61]"
+2153,D:/Dataset/cubicasa5k//high_quality_architectural/13525/model.svg,13525,"['Bath0', 'Other0', 'Entry0', 'Outdoor0', 'Kitchen0', 'Other1', 'LivingRoom0', 'Bedroom0', 'Other2', 'Other3']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,4,0.4,"[1, 46, 26, 60, 36, 47, 41, 11, 52, 53]"
+742,D:/Dataset/cubicasa5k//high_quality_architectural/3542/model.svg,3542,"['Outdoor0', 'Other0', 'LivingRoom0', 'Kitchen0', 'Bedroom0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[60, 46, 41, 36, 11, 1, 70]"
+1317,D:/Dataset/cubicasa5k//high_quality_architectural/10419/model.svg,10419,"['LivingRoom0', 'Other0', 'Outdoor0', 'Bedroom0', 'Bedroom1', 'Kitchen0', 'Bath0', 'Storage0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 4. ... 0. 0. 0.]
+ [0. 3. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[41, 46, 60, 11, 12, 36, 1, 70, 2]"
+1971,D:/Dataset/cubicasa5k//high_quality_architectural/12800/model.svg,12800,"['Outdoor0', 'Outdoor1', 'Entry0', 'Bath0', 'Storage0', 'Other0', 'Bath1', 'Storage1', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'LivingRoom0', 'Other1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 4. ... 0. 0. 0.]
+ [0. 3. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,2,0.14285714285714285,"[60, 61, 26, 1, 70, 46, 2, 71, 36, 11, 12, 41, 47, 27]"
+3383,D:/Dataset/cubicasa5k//high_quality_architectural/4864/model.svg,4864,"['Outdoor0', 'Other0', 'LivingRoom0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 46, 41, 36, 11, 12, 70, 1]"
+1550,D:/Dataset/cubicasa5k//high_quality_architectural/11279/model.svg,11279,"['Outdoor0', 'Entry0', 'Kitchen0', 'Other0', 'LivingRoom0', 'Other1', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[60, 26, 36, 46, 41, 47, 1]"
+717,D:/Dataset/cubicasa5k//high_quality_architectural/4829/model.svg,4829,"['Kitchen0', 'LivingRoom0', 'Entry0', 'Outdoor0', 'Outdoor1', 'Bedroom0', 'Other0', 'Bath0', 'Other1', 'Storage0', 'Storage1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,2,0.16666666666666666,"[36, 41, 26, 60, 61, 11, 46, 1, 47, 70, 71, 27]"
+1199,D:/Dataset/cubicasa5k//high_quality_architectural/10080/model.svg,10080,"['Outdoor0', 'Other0', 'LivingRoom0', 'Entry0', 'Kitchen0', 'Bath0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[60, 46, 41, 26, 36, 1, 47]"
+925,D:/Dataset/cubicasa5k//high_quality_architectural/7658/model.svg,7658,"['Storage0', 'Garage0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Entry0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Other0', 'Storage1', 'Storage2', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,1,0.07142857142857142,"[70, 31, 41, 11, 36, 26, 12, 13, 1, 46, 71, 72, 2, 27]"
+1473,D:/Dataset/cubicasa5k//high_quality_architectural/11032/model.svg,11032,"['Outdoor0', 'Outdoor1', 'Outdoor2', 'Outdoor3', 'Entry0', 'LivingRoom0', 'Kitchen0', 'Garage0', 'Bedroom0', 'Other0', 'Other1', 'Bedroom1', 'Bedroom2', 'Storage0', 'Storage1', 'Other2', 'Other3', 'Bath0', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",19,4,0.21052631578947367,"[60, 61, 62, 63, 26, 41, 36, 31, 11, 46, 47, 12, 13, 70, 71, 52, 53, 1, 27]"
+3167,D:/Dataset/cubicasa5k//high_quality/13145/model.svg,13145,"['Outdoor0', 'Outdoor1', 'Outdoor2', 'Outdoor3', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Bedroom2', 'Other0', 'Other1', 'Bath0', 'Entry1', 'Other2', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",17,3,0.17647058823529413,"[60, 61, 62, 63, 36, 26, 41, 11, 12, 70, 13, 46, 47, 1, 27, 52, 71]"
+3542,D:/Dataset/cubicasa5k//high_quality/8151/model.svg,8151,"['Outdoor0', 'LivingRoom0', 'Entry0', 'Kitchen0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,1,0.2,"[60, 41, 26, 36, 46]"
+1988,D:/Dataset/cubicasa5k//high_quality_architectural/12875/model.svg,12875,"['Storage0', 'Bath0', 'Storage1', 'Other0', 'Other1', 'Bath1', 'Storage2', 'Bedroom0', 'Bedroom1', 'Storage3', 'Bedroom2', 'Bedroom3', 'Garage0', 'LivingRoom0', 'Kitchen0', 'Outdoor0', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",17,2,0.11764705882352941,"[70, 1, 71, 46, 47, 2, 72, 11, 12, 73, 13, 14, 31, 41, 36, 60, 61]"
+1973,D:/Dataset/cubicasa5k//high_quality_architectural/12815/model.svg,12815,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Other0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other1', 'Storage0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 8. ... 0. 0. 0.]
+ [0. 5. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,2,0.18181818181818182,"[60, 41, 36, 46, 26, 11, 12, 1, 47, 70, 2]"
+2937,D:/Dataset/cubicasa5k//high_quality/5569/model.svg,5569,"['LivingRoom0', 'Entry0', 'Bath0', 'Outdoor0', 'Bath1', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bath2', 'Other0', 'Other1', 'Other2', 'Other3', 'Other4', 'Other5']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",16,6,0.375,"[41, 26, 1, 60, 2, 36, 11, 12, 13, 3, 46, 47, 52, 53, 54, 55]"
+443,D:/Dataset/cubicasa5k//high_quality_architectural/5639/model.svg,5639,"['Other0', 'Bath0', 'Bedroom0', 'Entry0', 'LivingRoom0', 'Kitchen0', 'Dining0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[46, 1, 11, 26, 41, 36, 21, 60]"
+1073,D:/Dataset/cubicasa5k//high_quality_architectural/7048/model.svg,7048,"['LivingRoom0', 'Bedroom0', 'Kitchen0', 'Other0', 'Storage0', 'Entry0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[41, 11, 36, 46, 70, 26, 60]"
+3249,D:/Dataset/cubicasa5k//high_quality/14892/model.svg,14892,"['Other0', 'Bath0', 'Entry0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",4,1,0.25,"[46, 1, 26, 70]"
+318,D:/Dataset/cubicasa5k//high_quality_architectural/930/model.svg,930,"['Kitchen0', 'Outdoor0', 'Storage0', 'Bath0', 'Bedroom0', 'Other0', 'LivingRoom0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[36, 60, 70, 1, 11, 46, 41]"
+383,D:/Dataset/cubicasa5k//high_quality_architectural/9868/model.svg,9868,"['Outdoor0', 'Outdoor1', 'Outdoor2', 'LivingRoom0', 'Entry0', 'Kitchen0', 'Other0', 'Other1', 'LivingRoom1', 'Other2', 'Other3', 'Bath0', 'Other4', 'Storage0', 'Storage1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",16,5,0.3125,"[60, 61, 62, 41, 26, 36, 46, 47, 42, 52, 53, 1, 54, 70, 71, 2]"
+3508,D:/Dataset/cubicasa5k//colorful/14926/model.svg,14926,"['Outdoor0', 'Entry0', 'Other0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",4,1,0.25,"[60, 26, 46, 1]"
+2354,D:/Dataset/cubicasa5k//high_quality_architectural/14385/model.svg,14385,"['Outdoor0', 'Outdoor1', 'Garage0', 'LivingRoom0', 'Entry0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other0', 'Storage0', 'Bath1', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 3. ... 0. 0. 0.]
+ [0. 4. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,1,0.07692307692307693,"[60, 61, 31, 41, 26, 36, 11, 12, 1, 46, 70, 2, 71]"
+1066,D:/Dataset/cubicasa5k//high_quality_architectural/1232/model.svg,1232,"['Dining0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Other0', 'Garage0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Storage0', 'Storage1', 'Bath0', 'Other1', 'Bath1', 'Entry1', 'Storage2', 'Outdoor0', 'Garage1', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",20,2,0.1,"[21, 36, 41, 26, 11, 46, 31, 12, 13, 14, 70, 71, 1, 47, 2, 27, 72, 60, 32, 61]"
+3482,D:/Dataset/cubicasa5k//high_quality/14041/model.svg,14041,"['Outdoor0', 'Other0', 'Other1', 'Entry0', 'Kitchen0', 'Bath0', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,3,0.42857142857142855,"[60, 46, 47, 26, 36, 1, 52]"
+183,D:/Dataset/cubicasa5k//high_quality_architectural/6660/model.svg,6660,"['Outdoor0', 'LivingRoom0', 'Bath0', 'Storage0', 'Kitchen0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,0,0.0,"[60, 41, 1, 70, 36]"
+3469,D:/Dataset/cubicasa5k//colorful/6226/model.svg,6226,"['Entry0', 'Storage0', 'Outdoor0', 'Outdoor1', 'Other0', 'LivingRoom0', 'Other1', 'Bedroom0', 'Kitchen0', 'Bedroom1', 'Bath0', 'Other2', 'Other3', 'Storage1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",15,4,0.26666666666666666,"[26, 70, 60, 61, 46, 41, 47, 11, 36, 12, 1, 52, 53, 71, 27]"
+626,D:/Dataset/cubicasa5k//high_quality_architectural/1225/model.svg,1225,"['Outdoor0', 'Bedroom0', 'Dining0', 'Kitchen0', 'Bath0', 'Bedroom1', 'Entry0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,0,0.0,"[60, 11, 21, 36, 1, 12, 26]"
+2117,D:/Dataset/cubicasa5k//high_quality_architectural/13360/model.svg,13360,"['Entry0', 'Storage0', 'Bath0', 'Storage1', 'Bedroom0', 'Kitchen0', 'Bedroom1', 'LivingRoom0', 'Entry1', 'Other0', 'Bath1', 'Outdoor0', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,1,0.07692307692307693,"[26, 70, 1, 71, 11, 36, 12, 41, 27, 46, 2, 60, 61]"
+2969,D:/Dataset/cubicasa5k//high_quality/6550/model.svg,6550,"['Kitchen0', 'Entry0', 'Outdoor0', 'Bedroom0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,0,0.0,"[36, 26, 60, 11, 1, 70]"
+2713,D:/Dataset/cubicasa5k//high_quality/1245/model.svg,1245,"['Outdoor0', 'Outdoor1', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other0', 'Storage0', 'Entry1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,1,0.08333333333333333,"[60, 61, 36, 26, 41, 11, 12, 1, 46, 70, 27, 2]"
+310,D:/Dataset/cubicasa5k//high_quality_architectural/8263/model.svg,8263,"['Outdoor0', 'Outdoor1', 'Entry0', 'LivingRoom0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[60, 61, 26, 41, 36, 11, 12, 1, 46]"
+2043,D:/Dataset/cubicasa5k//high_quality_architectural/13078/model.svg,13078,"['Entry0', 'Kitchen0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Outdoor0', 'Other0', 'Garage0', 'Storage0', 'Bath0', 'Bath1', 'Other1', 'Entry1', 'Bath2', 'Bath3', 'Bath4', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 3. ... 0. 0. 0.]
+ [0. 4. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",18,2,0.1111111111111111,"[26, 36, 41, 11, 12, 13, 60, 46, 31, 70, 1, 2, 47, 27, 3, 4, 5, 71]"
+1513,D:/Dataset/cubicasa5k//high_quality_architectural/11152/model.svg,11152,"['LivingRoom0', 'Other0', 'Entry0', 'Bath0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,1,0.2,"[41, 46, 26, 1, 2]"
+1085,D:/Dataset/cubicasa5k//high_quality_architectural/6542/model.svg,6542,"['Outdoor0', 'Outdoor1', 'Other0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Storage0', 'Storage1', 'Other1', 'Entry1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 7. ... 0. 0. 0.]
+ [0. 6. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,2,0.14285714285714285,"[60, 61, 46, 26, 41, 11, 12, 13, 1, 70, 71, 47, 27, 2]"
+15,D:/Dataset/cubicasa5k//high_quality_architectural/5658/model.svg,5658,"['Other0', 'Bedroom0', 'LivingRoom0', 'Kitchen0', 'Other1', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[46, 11, 41, 36, 47, 60]"
+1652,D:/Dataset/cubicasa5k//high_quality_architectural/11639/model.svg,11639,"['Outdoor0', 'Other0', 'Entry0', 'Other1', 'Kitchen0', 'Bath0', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,3,0.42857142857142855,"[60, 46, 26, 47, 36, 1, 52]"
+2427,D:/Dataset/cubicasa5k//high_quality_architectural/14705/model.svg,14705,"['Outdoor0', 'Entry0', 'Kitchen0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Storage0', 'Other0', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,1,0.1,"[60, 26, 36, 41, 11, 12, 1, 70, 46, 71]"
+3517,D:/Dataset/cubicasa5k//high_quality/2554/model.svg,2554,"['Outdoor0', 'Bath0', 'Storage0', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Other0', 'Entry1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[60, 1, 70, 41, 36, 26, 11, 12, 46, 27, 2]"
+657,D:/Dataset/cubicasa5k//high_quality_architectural/169/model.svg,169,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Other0', 'Outdoor1', 'Bedroom0', 'Bedroom1', 'Bath0', 'Entry0', 'Bath1', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 2. ... 0. 0. 0.]
+ [0. 1. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,2,0.18181818181818182,"[60, 41, 36, 46, 61, 11, 12, 1, 26, 2, 47]"
+1128,D:/Dataset/cubicasa5k//high_quality_architectural/7877/model.svg,7877,"['Outdoor0', 'Entry0', 'Kitchen0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,0,0.0,"[60, 26, 36, 41, 11, 12, 1, 27]"
+2949,D:/Dataset/cubicasa5k//high_quality/4039/model.svg,4039,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'LivingRoom1', 'Entry0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,0,0.0,"[60, 41, 36, 42, 26, 1]"
+2135,D:/Dataset/cubicasa5k//high_quality_architectural/13429/model.svg,13429,"['Kitchen0', 'Other0', 'Other1', 'LivingRoom0', 'Outdoor0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,3,0.3333333333333333,"[36, 46, 47, 41, 60, 11, 12, 70, 52]"
+1373,D:/Dataset/cubicasa5k//high_quality_architectural/10614/model.svg,10614,"['LivingRoom0', 'Kitchen0', 'Entry0', 'Outdoor0', 'Bedroom0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[41, 36, 26, 60, 11, 46]"
+2947,D:/Dataset/cubicasa5k//high_quality/5155/model.svg,5155,"['Outdoor0', 'Entry0', 'LivingRoom0', 'Kitchen0', 'Dining0', 'Outdoor1', 'Other0', 'Bedroom0', 'Bath0', 'Other1', 'Other2', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,3,0.25,"[60, 26, 41, 36, 21, 61, 46, 11, 1, 47, 52, 27]"
+747,D:/Dataset/cubicasa5k//high_quality_architectural/9749/model.svg,9749,"['Outdoor0', 'Outdoor1', 'Outdoor2', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Bedroom2', 'Bath0', 'Other0', 'Entry1', 'Storage1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",15,1,0.06666666666666667,"[60, 61, 62, 36, 41, 26, 11, 12, 70, 13, 1, 46, 27, 71, 2]"
+1072,D:/Dataset/cubicasa5k//high_quality_architectural/9833/model.svg,9833,"['Outdoor0', 'Bedroom0', 'Entry0', 'LivingRoom0', 'Entry1', 'Bedroom1', 'Other0', 'Garage0', 'Bedroom2', 'Kitchen0', 'Storage0', 'Storage1', 'Bath0', 'Other1', 'Bath1', 'Other2', 'Other3', 'Bath2', 'Other4', 'Outdoor1', 'Outdoor2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",21,5,0.23809523809523808,"[60, 11, 26, 41, 27, 12, 46, 31, 13, 36, 70, 71, 1, 47, 2, 52, 53, 3, 54, 61, 62]"
+3360,D:/Dataset/cubicasa5k//high_quality_architectural/6602/model.svg,6602,"['LivingRoom0', 'Entry0', 'Outdoor0', 'Outdoor1', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Storage0', 'Storage1', 'Bath0', 'Other0', 'Storage2', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,1,0.07692307692307693,"[41, 26, 60, 61, 11, 12, 13, 70, 71, 1, 46, 72, 2]"
+1836,D:/Dataset/cubicasa5k//high_quality_architectural/12245/model.svg,12245,"['Outdoor0', 'Other0', 'Other1', 'LivingRoom0', 'Kitchen0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[60, 46, 47, 41, 36, 1]"
+2889,D:/Dataset/cubicasa5k//high_quality/910/model.svg,910,"['Outdoor0', 'Outdoor1', 'Entry0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Other0', 'Storage0', 'Bath0', 'Entry1', 'Kitchen0', 'LivingRoom0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,1,0.07692307692307693,"[60, 61, 26, 11, 12, 13, 14, 46, 70, 1, 27, 36, 41]"
+2398,D:/Dataset/cubicasa5k//high_quality_architectural/14554/model.svg,14554,"['Other0', 'Kitchen0', 'Dining0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Other1', 'Bedroom2', 'Other2', 'Storage0', 'Bath0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,3,0.25,"[46, 36, 21, 41, 11, 12, 47, 13, 52, 70, 1, 60]"
+1320,D:/Dataset/cubicasa5k//high_quality_architectural/10424/model.svg,10424,"['Bath0', 'Other0', 'Other1', 'Entry0', 'Kitchen0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,2,0.4,"[1, 46, 47, 26, 36]"
+1894,D:/Dataset/cubicasa5k//high_quality_architectural/12566/model.svg,12566,"['Outdoor0', 'Outdoor1', 'Outdoor2', 'Entry0', 'LivingRoom0', 'Kitchen0', 'Garage0', 'Outdoor3', 'Storage0', 'Bedroom0', 'Bedroom1', 'Other0', 'Bedroom2', 'Storage1', 'Bath0', 'Other1', 'Entry1', 'Bath1', 'Bath2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",19,2,0.10526315789473684,"[60, 61, 62, 26, 41, 36, 31, 63, 70, 11, 12, 46, 13, 71, 1, 47, 27, 2, 3]"
+1686,D:/Dataset/cubicasa5k//high_quality_architectural/11740/model.svg,11740,"['LivingRoom0', 'Kitchen0', 'Entry0', 'Other0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Other1', 'Other2', 'Storage0', 'Storage1', 'Bath0', 'Other3', 'Storage2', 'Entry1', 'Other4', 'Bath1', 'Bath2', 'Outdoor0', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",21,5,0.23809523809523808,"[41, 36, 26, 46, 11, 12, 13, 14, 47, 52, 70, 71, 1, 53, 72, 27, 54, 2, 3, 60, 61]"
+2988,D:/Dataset/cubicasa5k//high_quality/10017/model.svg,10017,"['LivingRoom0', 'Kitchen0', 'Entry0', 'Outdoor0', 'Other0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[41, 36, 26, 60, 46, 11, 12, 1, 70]"
+1183,D:/Dataset/cubicasa5k//high_quality_architectural/10026/model.svg,10026,"['Outdoor0', 'Other0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Bedroom1', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[60, 46, 41, 11, 36, 12, 1]"
+1851,D:/Dataset/cubicasa5k//high_quality_architectural/12304/model.svg,12304,"['Bath0', 'Bedroom0', 'Bedroom1', 'Kitchen0', 'Entry0', 'Dining0', 'LivingRoom0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,0,0.0,"[1, 11, 12, 36, 26, 21, 41, 60]"
+3587,D:/Dataset/cubicasa5k//high_quality/7767/model.svg,7767,"['Entry0', 'Kitchen0', 'LivingRoom0', 'Outdoor0', 'Bath0', 'Entry1', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,0,0.0,"[26, 36, 41, 60, 1, 27, 61]"
+3199,D:/Dataset/cubicasa5k//high_quality/13603/model.svg,13603,"['LivingRoom0', 'Entry0', 'Other0', 'Bedroom0', 'Kitchen0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[41, 26, 46, 11, 36, 1]"
+1083,D:/Dataset/cubicasa5k//high_quality_architectural/5940/model.svg,5940,"['Outdoor0', 'Dining0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Other0', 'Entry1', 'Storage0', 'Other1', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,2,0.16666666666666666,"[60, 21, 36, 41, 26, 11, 12, 46, 27, 70, 47, 1]"
+1189,D:/Dataset/cubicasa5k//high_quality_architectural/10039/model.svg,10039,"['Outdoor0', 'Outdoor1', 'Outdoor2', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bath0', 'Bath1', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Storage0', 'Storage1', 'Other0', 'Entry1', 'Bath2', 'Other1', 'Storage2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 3. ... 0. 0. 0.]
+ [0. 4. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",19,2,0.10526315789473684,"[60, 61, 62, 36, 41, 26, 1, 2, 11, 12, 13, 14, 70, 71, 46, 27, 3, 47, 72]"
+1911,D:/Dataset/cubicasa5k//high_quality_architectural/12592/model.svg,12592,"['Outdoor0', 'Other0', 'LivingRoom0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[60, 46, 41, 36, 11, 12, 47]"
+1960,D:/Dataset/cubicasa5k//high_quality_architectural/12770/model.svg,12770,"['Other0', 'Kitchen0', 'Bath0', 'Other1', 'Entry0', 'Bath1', 'Other2', 'Entry1', 'Outdoor0', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,3,0.3,"[46, 36, 1, 47, 26, 2, 52, 27, 60, 61]"
+2681,D:/Dataset/cubicasa5k//high_quality/4702/model.svg,4702,"['Entry0', 'LivingRoom0', 'Outdoor0', 'Bedroom0', 'Kitchen0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,0,0.0,"[26, 41, 60, 11, 36, 1, 70]"
+436,D:/Dataset/cubicasa5k//high_quality_architectural/8407/model.svg,8407,"['LivingRoom0', 'Entry0', 'Other0', 'Bedroom0', 'Bath0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[41, 26, 46, 11, 1, 47]"
+3052,D:/Dataset/cubicasa5k//high_quality/11211/model.svg,11211,"['Outdoor0', 'Entry0', 'Kitchen0', 'Bedroom0', 'LivingRoom0', 'Bedroom1', 'Bath0', 'Other0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,2,0.2222222222222222,"[60, 26, 36, 11, 41, 12, 1, 46, 47]"
+1565,D:/Dataset/cubicasa5k//high_quality_architectural/11319/model.svg,11319,"['Storage0', 'Bath0', 'Outdoor0', 'Other0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,2,0.4,"[70, 1, 60, 46, 47]"
+3282,D:/Dataset/cubicasa5k//high_quality_architectural/8154/model.svg,8154,"['Bath0', 'Other0', 'Kitchen0', 'LivingRoom0', 'Other1', 'Bedroom0', 'Entry0', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,3,0.375,"[1, 46, 36, 41, 47, 11, 26, 52]"
+1432,D:/Dataset/cubicasa5k//high_quality_architectural/10765/model.svg,10765,"['Outdoor0', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other0', 'Entry1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 2. ... 0. 0. 0.]
+ [0. 1. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,1,0.1,"[60, 36, 26, 41, 11, 12, 1, 46, 27, 2]"
+2416,D:/Dataset/cubicasa5k//high_quality_architectural/14638/model.svg,14638,"['Entry0', 'Kitchen0', 'LivingRoom0', 'Outdoor0', 'Bedroom0', 'Bath0', 'Bedroom1', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[26, 36, 41, 60, 11, 1, 12, 46]"
+497,D:/Dataset/cubicasa5k//high_quality_architectural/1483/model.svg,1483,"['Outdoor0', 'Outdoor1', 'Other0', 'LivingRoom0', 'Other1', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other2', 'Storage0', 'Entry0', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,3,0.25,"[60, 61, 46, 41, 47, 11, 12, 1, 52, 70, 26, 71]"
+2491,D:/Dataset/cubicasa5k//high_quality_architectural/20058/model.svg,20058,"['Outdoor0', 'Dining0', 'Kitchen0', 'Entry0', 'Outdoor1', 'Outdoor2', 'Outdoor3', 'LivingRoom0', 'Other0', 'Bath0', 'Storage0', 'Other1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,2,0.15384615384615385,"[60, 21, 36, 26, 61, 62, 63, 41, 46, 1, 70, 47, 27]"
+3161,D:/Dataset/cubicasa5k//high_quality/13094/model.svg,13094,"['Other0', 'Entry0', 'Bath0', 'Kitchen0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,2,0.4,"[46, 26, 1, 36, 47]"
+1704,D:/Dataset/cubicasa5k//high_quality_architectural/11809/model.svg,11809,"['Kitchen0', 'LivingRoom0', 'Storage0', 'Bath0', 'Entry0', 'Outdoor0', 'Bedroom0', 'Bedroom1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,0,0.0,"[36, 41, 70, 1, 26, 60, 11, 12]"
+448,D:/Dataset/cubicasa5k//high_quality_architectural/3933/model.svg,3933,"['Outdoor0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,0,0.0,"[60, 26, 41, 11, 36, 1]"
+2253,D:/Dataset/cubicasa5k//high_quality_architectural/13841/model.svg,13841,"['Other0', 'Other1', 'Entry0', 'Kitchen0', 'Other2', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other3']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,4,0.4,"[46, 47, 26, 36, 52, 41, 11, 12, 1, 53]"
+1772,D:/Dataset/cubicasa5k//high_quality_architectural/12049/model.svg,12049,"['Other0', 'Kitchen0', 'LivingRoom0', 'Outdoor0', 'Bedroom0', 'Bath0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[46, 36, 41, 60, 11, 1, 47]"
+3581,D:/Dataset/cubicasa5k//high_quality_architectural/6301/model.svg,6301,"['LivingRoom0', 'Kitchen0', 'Entry0', 'Outdoor0', 'Storage0', 'Bedroom0', 'Bath0', 'Other0', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[41, 36, 26, 60, 70, 11, 1, 46, 27]"
+3567,D:/Dataset/cubicasa5k//high_quality/729/model.svg,729,"['Outdoor0', 'Outdoor1', 'Storage0', 'Bath0', 'LivingRoom0', 'Dining0', 'Entry0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[60, 61, 70, 1, 41, 21, 26, 36, 11, 12, 46]"
+612,D:/Dataset/cubicasa5k//high_quality_architectural/1653/model.svg,1653,"['Outdoor0', 'Storage0', 'Entry0', 'LivingRoom0', 'Outdoor1', 'Kitchen0', 'Bedroom0', 'Other0', 'Bedroom1', 'Other1', 'Bath0', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,2,0.16666666666666666,"[60, 70, 26, 41, 61, 36, 11, 46, 12, 47, 1, 27]"
+1972,D:/Dataset/cubicasa5k//high_quality_architectural/12804/model.svg,12804,"['Entry0', 'Other0', 'LivingRoom0', 'Kitchen0', 'Outdoor0', 'Bedroom0', 'Bath0', 'Storage0', 'Other1', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,3,0.3,"[26, 46, 41, 36, 60, 11, 1, 70, 47, 52]"
+992,D:/Dataset/cubicasa5k//high_quality_architectural/23/model.svg,23,"['Storage0', 'Kitchen0', 'Entry0', 'Other0', 'Bedroom0', 'Storage1', 'Garage0', 'Other1', 'LivingRoom0', 'Bedroom1', 'Other2', 'Bath0', 'Entry1', 'Storage2', 'Other3', 'Storage3', 'Bath1', 'Other4']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",18,5,0.2777777777777778,"[70, 36, 26, 46, 11, 71, 31, 47, 41, 12, 52, 1, 27, 72, 53, 73, 2, 54]"
+2823,D:/Dataset/cubicasa5k//high_quality/5759/model.svg,5759,"['Outdoor0', 'Bedroom0', 'LivingRoom0', 'Other0', 'Kitchen0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[60, 11, 41, 46, 36, 1]"
+3176,D:/Dataset/cubicasa5k//high_quality/13294/model.svg,13294,"['Outdoor0', 'LivingRoom0', 'Entry0', 'Dining0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Other0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,2,0.18181818181818182,"[60, 41, 26, 21, 36, 11, 12, 13, 1, 46, 47]"
+634,D:/Dataset/cubicasa5k//high_quality_architectural/8394/model.svg,8394,"['Storage0', 'Bath0', 'LivingRoom0', 'Entry0', 'Kitchen0', 'Outdoor0', 'Outdoor1', 'Bedroom0', 'Storage1', 'Entry1', 'Other0', 'Bath1', 'Storage2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,1,0.07692307692307693,"[70, 1, 41, 26, 36, 60, 61, 11, 71, 27, 46, 2, 72]"
+294,D:/Dataset/cubicasa5k//high_quality_architectural/1070/model.svg,1070,"['Entry0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Outdoor0', 'Bedroom2', 'Bath0', 'Other0', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,1,0.1,"[26, 36, 11, 12, 70, 60, 13, 1, 46, 71]"
+3006,D:/Dataset/cubicasa5k//high_quality/10356/model.svg,10356,"['Outdoor0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Kitchen0', 'Bedroom1', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 41, 26, 11, 36, 12, 1, 46]"
+3534,D:/Dataset/cubicasa5k//high_quality/6732/model.svg,6732,"['Other0', 'Other1', 'Other2', 'Bedroom0', 'Entry0', 'LivingRoom0', 'Kitchen0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,3,0.375,"[46, 47, 52, 11, 26, 41, 36, 60]"
+3233,D:/Dataset/cubicasa5k//high_quality/14643/model.svg,14643,"['Outdoor0', 'Dining0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bath0', 'Other0', 'Entry1', 'Storage0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[60, 21, 36, 41, 26, 11, 1, 46, 27, 70, 2]"
+2653,D:/Dataset/cubicasa5k//high_quality/6699/model.svg,6699,"['Bedroom0', 'Storage0', 'Other0', 'Kitchen0', 'Other1', 'LivingRoom0', 'Entry0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[11, 70, 46, 36, 47, 41, 26]"
+320,D:/Dataset/cubicasa5k//high_quality_architectural/9464/model.svg,9464,"['Outdoor0', 'Dining0', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Other0', 'Bath0', 'Bath1', 'Other1', 'Storage0', 'Entry1', 'Bath2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",16,2,0.125,"[60, 21, 36, 26, 41, 11, 12, 13, 14, 46, 1, 2, 47, 70, 27, 3]"
+1001,D:/Dataset/cubicasa5k//high_quality_architectural/1858/model.svg,1858,"['Outdoor0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Storage0', 'Bedroom0', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 36, 41, 26, 70, 11, 1, 46]"
+3536,D:/Dataset/cubicasa5k//high_quality/929/model.svg,929,"['Entry0', 'LivingRoom0', 'Kitchen0', 'LivingRoom1', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,0,0.0,"[26, 41, 36, 42, 1]"
+1499,D:/Dataset/cubicasa5k//high_quality_architectural/11100/model.svg,11100,"['Outdoor0', 'Other0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Bedroom1', 'Storage0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 46, 41, 11, 36, 12, 70, 1]"
+2272,D:/Dataset/cubicasa5k//high_quality_architectural/14052/model.svg,14052,"['Outdoor0', 'Outdoor1', 'Garage0', 'Outdoor2', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Storage1', 'Other0', 'Bath0', 'Storage2', 'Entry1', 'Storage3', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",17,1,0.058823529411764705,"[60, 61, 31, 62, 36, 26, 41, 11, 12, 70, 71, 46, 1, 72, 27, 73, 2]"
+277,D:/Dataset/cubicasa5k//high_quality_architectural/5057/model.svg,5057,"['Other0', 'Storage0', 'Storage1', 'Entry0', 'Kitchen0', 'LivingRoom0', 'Other1', 'Outdoor0', 'Outdoor1', 'Outdoor2', 'Other2', 'Storage2', 'Bath0', 'Other3', 'Other4', 'Entry1', 'Bath1', 'Other5', 'Bath2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",19,6,0.3157894736842105,"[46, 70, 71, 26, 36, 41, 47, 60, 61, 62, 52, 72, 1, 53, 54, 27, 2, 55, 3]"
+3065,D:/Dataset/cubicasa5k//high_quality/11437/model.svg,11437,"['Outdoor0', 'Entry0', 'LivingRoom0', 'Other0', 'Bedroom0', 'Other1', 'Bedroom1', 'Kitchen0', 'Storage0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[60, 26, 41, 46, 11, 47, 12, 36, 70, 1]"
+1043,D:/Dataset/cubicasa5k//high_quality_architectural/5756/model.svg,5756,"['Outdoor0', 'Kitchen0', 'Other0', 'Other1', 'LivingRoom0', 'Outdoor1', 'Other2', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other3', 'Other4']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,5,0.4166666666666667,"[60, 36, 46, 47, 41, 61, 52, 11, 12, 1, 53, 54]"
+1420,D:/Dataset/cubicasa5k//high_quality_architectural/10739/model.svg,10739,"['Bath0', 'LivingRoom0', 'Kitchen0', 'Entry0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",4,0,0.0,"[1, 41, 36, 26]"
+1341,D:/Dataset/cubicasa5k//high_quality_architectural/10510/model.svg,10510,"['Outdoor0', 'Outdoor1', 'Entry0', 'Dining0', 'LivingRoom0', 'Kitchen0', 'Other0', 'Bedroom0', 'Bath0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[60, 61, 26, 21, 41, 36, 46, 11, 1, 47]"
+3577,D:/Dataset/cubicasa5k//high_quality/9975/model.svg,9975,"['LivingRoom0', 'Kitchen0', 'Entry0', 'Outdoor0', 'Bedroom0', 'Bedroom1', 'Other0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[41, 36, 26, 60, 11, 12, 46, 70]"
+1152,D:/Dataset/cubicasa5k//high_quality_architectural/7893/model.svg,7893,"['Other0', 'Outdoor0', 'Kitchen0', 'Other1', 'Storage0', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[46, 60, 36, 47, 70, 71]"
+395,D:/Dataset/cubicasa5k//high_quality_architectural/6313/model.svg,6313,"['Outdoor0', 'Outdoor1', 'Kitchen0', 'LivingRoom0', 'Other0', 'Entry0', 'Bath0', 'Bath1', 'Bedroom0', 'Storage0', 'Other1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 3. ... 0. 0. 0.]
+ [0. 4. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,2,0.16666666666666666,"[60, 61, 36, 41, 46, 26, 1, 2, 11, 70, 47, 27]"
+1628,D:/Dataset/cubicasa5k//high_quality_architectural/11551/model.svg,11551,"['LivingRoom0', 'Kitchen0', 'Other0', 'Outdoor0', 'Outdoor1', 'Bedroom0', 'Other1', 'Storage0', 'Other2', 'Other3']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,4,0.4,"[41, 36, 46, 60, 61, 11, 47, 70, 52, 53]"
+810,D:/Dataset/cubicasa5k//high_quality_architectural/672/model.svg,672,"['Outdoor0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other0', 'LivingRoom0', 'Kitchen0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 26, 11, 12, 1, 46, 41, 36]"
+3582,D:/Dataset/cubicasa5k//high_quality_architectural/8207/model.svg,8207,"['Outdoor0', 'Other0', 'Bath0', 'Other1', 'LivingRoom0', 'Bedroom0', 'Kitchen0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[60, 46, 1, 47, 41, 11, 36]"
+527,D:/Dataset/cubicasa5k//high_quality_architectural/3791/model.svg,3791,"['Outdoor0', 'Outdoor1', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Storage0', 'Storage1', 'Bedroom0', 'Bedroom1', 'Other0', 'Bedroom2', 'Bedroom3', 'Storage2', 'Bath0', 'Entry1', 'Other1', 'Bath1', 'Bath2', 'Entry2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",19,2,0.10526315789473684,"[60, 61, 36, 26, 41, 70, 71, 11, 12, 46, 13, 14, 72, 1, 27, 47, 2, 3, 28]"
+2357,D:/Dataset/cubicasa5k//high_quality_architectural/14395/model.svg,14395,"['Outdoor0', 'Bedroom0', 'Bath0', 'Entry0', 'Kitchen0', 'LivingRoom0', 'Other0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 11, 1, 26, 36, 41, 46, 70]"
+1067,D:/Dataset/cubicasa5k//high_quality_architectural/6581/model.svg,6581,"['Entry0', 'Storage0', 'Kitchen0', 'Bedroom0', 'Bath0', 'Outdoor0', 'LivingRoom0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,0,0.0,"[26, 70, 36, 11, 1, 60, 41]"
+3125,D:/Dataset/cubicasa5k//high_quality/12623/model.svg,12623,"['Kitchen0', 'Entry0', 'Bedroom0', 'Outdoor0', 'LivingRoom0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,0,0.0,"[36, 26, 11, 60, 41, 1, 70]"
+2925,D:/Dataset/cubicasa5k//high_quality/6263/model.svg,6263,"['Outdoor0', 'Outdoor1', 'Garage0', 'Outdoor2', 'Dining0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Storage0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Storage1', 'Other0', 'Other1', 'Storage2', 'Entry1', 'Other2', 'Storage3']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",19,3,0.15789473684210525,"[60, 61, 31, 62, 21, 36, 41, 26, 70, 11, 12, 13, 71, 46, 47, 72, 27, 52, 73]"
+2596,D:/Dataset/cubicasa5k//colorful/3136/model.svg,3136,"['Outdoor0', 'Other0', 'Bath0', 'Entry0', 'Kitchen0', 'LivingRoom0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[60, 46, 1, 26, 36, 41]"
+2915,D:/Dataset/cubicasa5k//high_quality/9279/model.svg,9279,"['Other0', 'Other1', 'Outdoor0', 'Kitchen0', 'Dining0', 'Other2', 'Entry0', 'Bath0', 'Other3', 'Bath1', 'Other4', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,5,0.4166666666666667,"[46, 47, 60, 36, 21, 52, 26, 1, 53, 2, 54, 70]"
+1474,D:/Dataset/cubicasa5k//high_quality_architectural/11033/model.svg,11033,"['Outdoor0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Kitchen0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,0,0.0,"[60, 26, 41, 11, 12, 36, 1, 70]"
+1216,D:/Dataset/cubicasa5k//high_quality_architectural/10130/model.svg,10130,"['Outdoor0', 'Entry0', 'LivingRoom0', 'Bath0', 'Storage0', 'Bedroom0', 'Kitchen0', 'Bedroom1', 'Other0', 'Bath1', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 2. ... 0. 0. 0.]
+ [0. 1. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[60, 26, 41, 1, 70, 11, 36, 12, 46, 2, 71]"
+1889,D:/Dataset/cubicasa5k//high_quality_architectural/12549/model.svg,12549,"['Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Other0', 'Bath0', 'Other1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,2,0.2222222222222222,"[36, 41, 26, 11, 12, 46, 1, 47, 2]"
+151,D:/Dataset/cubicasa5k//high_quality_architectural/616/model.svg,616,"['Dining0', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Outdoor0', 'Outdoor1', 'Bedroom0', 'Other0', 'Storage0', 'Other1', 'Storage1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,2,0.16666666666666666,"[21, 36, 26, 41, 60, 61, 11, 46, 70, 47, 71, 27]"
+478,D:/Dataset/cubicasa5k//high_quality_architectural/8472/model.svg,8472,"['Outdoor0', 'Entry0', 'LivingRoom0', 'Dining0', 'LivingRoom1', 'Kitchen0', 'Bath0', 'Storage0', 'Bedroom0', 'Outdoor1', 'Outdoor2', 'Storage1', 'Bedroom1', 'Other0', 'Other1', 'Bedroom2', 'Other2', 'Storage2', 'Other3', 'Storage3', 'Entry1', 'Storage4', 'Bath1', 'Bath2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 3. ... 0. 0. 0.]
+ [0. 4. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",24,4,0.16666666666666666,"[60, 26, 41, 21, 42, 36, 1, 70, 11, 61, 62, 71, 12, 46, 47, 13, 52, 72, 53, 73, 27, 74, 2, 3]"
+3584,D:/Dataset/cubicasa5k//high_quality_architectural/7864/model.svg,7864,"['Outdoor0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Entry0', 'Bath0', 'Other0', 'Entry1', 'Storage0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[60, 41, 11, 36, 26, 1, 46, 27, 70, 47]"
+1699,D:/Dataset/cubicasa5k//high_quality_architectural/11787/model.svg,11787,"['Outdoor0', 'Other0', 'LivingRoom0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bath0', 'Storage0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 1. ... 0. 0. 0.]
+ [0. 2. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,1,0.1,"[60, 46, 41, 36, 11, 12, 13, 1, 70, 2]"
+2255,D:/Dataset/cubicasa5k//high_quality_architectural/13843/model.svg,13843,"['Outdoor0', 'LivingRoom0', 'Dining0', 'LivingRoom1', 'Garage0', 'Outdoor1', 'Kitchen0', 'Bedroom0', 'Other0', 'Other1', 'Other2', 'Bath0', 'Other3', 'Entry0', 'Other4', 'Storage0', 'Other5', 'Bath1', 'Storage1', 'Storage2', 'Other6', 'Other7', 'Other8', 'Other9', 'Other10', 'Other11', 'Other12']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",27,13,0.48148148148148145,"[60, 41, 21, 42, 31, 61, 36, 11, 46, 47, 52, 1, 53, 26, 54, 70, 55, 2, 71, 72, 56, 57, 58, 59, 48, 49, 50]"
+1840,D:/Dataset/cubicasa5k//high_quality_architectural/12252/model.svg,12252,"['Bath0', 'Entry0', 'Other0', 'Bath1', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Other1', 'Kitchen0', 'LivingRoom0', 'Entry1', 'Outdoor0', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,2,0.15384615384615385,"[1, 26, 46, 2, 11, 12, 13, 47, 36, 41, 27, 60, 61]"
+2030,D:/Dataset/cubicasa5k//high_quality_architectural/13028/model.svg,13028,"['Outdoor0', 'Kitchen0', 'LivingRoom0', 'Bedroom0', 'Other0', 'Entry0', 'Entry1', 'Other1', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,2,0.2222222222222222,"[60, 36, 41, 11, 46, 26, 27, 47, 70]"
+1714,D:/Dataset/cubicasa5k//high_quality_architectural/11841/model.svg,11841,"['Outdoor0', 'Other0', 'LivingRoom0', 'LivingRoom1', 'Kitchen0', 'Other1', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,3,0.42857142857142855,"[60, 46, 41, 42, 36, 47, 52]"
+2928,D:/Dataset/cubicasa5k//high_quality/3129/model.svg,3129,"['Outdoor0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Entry0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,0,0.0,"[60, 41, 11, 36, 26, 1]"
+2397,D:/Dataset/cubicasa5k//high_quality_architectural/14552/model.svg,14552,"['Outdoor0', 'Other0', 'Kitchen0', 'LivingRoom0', 'Other1', 'Entry0', 'Storage0', 'Outdoor1', 'Bedroom0', 'Bedroom1', 'Bath0', 'Other2', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,3,0.23076923076923078,"[60, 46, 36, 41, 47, 26, 70, 61, 11, 12, 1, 52, 27]"
+2854,D:/Dataset/cubicasa5k//high_quality/5014/model.svg,5014,"['Other0', 'Bath0', 'Outdoor0', 'Other1', 'Kitchen0', 'Bedroom0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[46, 1, 60, 47, 36, 11]"
+1220,D:/Dataset/cubicasa5k//high_quality_architectural/10141/model.svg,10141,"['Outdoor0', 'Kitchen0', 'Dining0', 'Outdoor1', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Storage0', 'Other0', 'Storage1', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,1,0.07142857142857142,"[60, 36, 21, 61, 41, 26, 11, 12, 1, 70, 46, 71, 2, 27]"
+770,D:/Dataset/cubicasa5k//high_quality_architectural/285/model.svg,285,"['Garage0', 'Outdoor0', 'Entry0', 'Bedroom0', 'Bedroom1', 'LivingRoom0', 'Entry1', 'Storage0', 'Kitchen0', 'Garage1', 'Bedroom2', 'Other0', 'Bath0', 'Entry2', 'Bath1', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",16,1,0.0625,"[31, 60, 26, 11, 12, 41, 27, 70, 36, 32, 13, 46, 1, 28, 2, 61]"
+3333,D:/Dataset/cubicasa5k//high_quality_architectural/9066/model.svg,9066,"['Outdoor0', 'Outdoor1', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bedroom0', 'Bath0', 'Other0', 'Storage0', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",11,1,0.09090909090909091,"[60, 61, 41, 36, 26, 11, 1, 46, 70, 2, 27]"
+1633,D:/Dataset/cubicasa5k//high_quality_architectural/11563/model.svg,11563,"['Outdoor0', 'Kitchen0', 'Other0', 'Entry0', 'LivingRoom0', 'Other1', 'Other2', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,3,0.375,"[60, 36, 46, 26, 41, 47, 52, 70]"
+3301,D:/Dataset/cubicasa5k//high_quality_architectural/9905/model.svg,9905,"['Dining0', 'Entry0', 'Kitchen0', 'Bath0', 'Other0', 'LivingRoom0', 'Outdoor0', 'Bedroom0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,2,0.2222222222222222,"[21, 26, 36, 1, 46, 41, 60, 11, 47]"
+2852,D:/Dataset/cubicasa5k//high_quality/4933/model.svg,4933,"['Outdoor0', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Other0', 'Bath0', 'Storage0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,2,0.25,"[60, 36, 26, 41, 46, 1, 70, 47]"
+1589,D:/Dataset/cubicasa5k//high_quality_architectural/11408/model.svg,11408,"['LivingRoom0', 'Other0', 'Outdoor0', 'Other1', 'Kitchen0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[41, 46, 60, 47, 36, 1, 70]"
+1346,D:/Dataset/cubicasa5k//high_quality_architectural/10533/model.svg,10533,"['Outdoor0', 'Outdoor1', 'Other0', 'Entry0', 'Kitchen0', 'Garage0', 'Bedroom0', 'Bedroom1', 'Storage0', 'Bedroom2', 'Other1', 'Bath0', 'Storage1', 'Other2', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",15,3,0.2,"[60, 61, 46, 26, 36, 31, 11, 12, 70, 13, 47, 1, 71, 52, 2]"
+3372,D:/Dataset/cubicasa5k//high_quality_architectural/651/model.svg,651,"['Outdoor0', 'Kitchen0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,0,0.0,"[60, 36, 26, 41, 11, 1]"
+1529,D:/Dataset/cubicasa5k//high_quality_architectural/11184/model.svg,11184,"['Outdoor0', 'LivingRoom0', 'Bedroom0', 'Kitchen0', 'Bedroom1', 'Entry0', 'Bath0', 'Other0', 'Other1', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,3,0.3,"[60, 41, 11, 36, 12, 26, 1, 46, 47, 52]"
+1484,D:/Dataset/cubicasa5k//high_quality_architectural/11063/model.svg,11063,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,0,0.0,"[60, 41, 36, 26, 1]"
+3108,D:/Dataset/cubicasa5k//high_quality/12197/model.svg,12197,"['Other0', 'Outdoor0', 'LivingRoom0', 'Bedroom0', 'Other1', 'Kitchen0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,2,0.2857142857142857,"[46, 60, 41, 11, 47, 36, 1]"
+3026,D:/Dataset/cubicasa5k//high_quality/10552/model.svg,10552,"['Outdoor0', 'Bedroom0', 'Other0', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bedroom1', 'Bath0', 'Storage0', 'Other1', 'Bath1', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,2,0.16666666666666666,"[60, 11, 46, 41, 36, 26, 12, 1, 70, 47, 2, 71]"
+1399,D:/Dataset/cubicasa5k//high_quality_architectural/10692/model.svg,10692,"['Entry0', 'LivingRoom0', 'Kitchen0', 'Bath0', 'Bath1', 'Outdoor0', 'Bedroom0', 'Other0']","[[ 0.  0.  0. ...  0.  0.  0.]
+ [ 0.  9.  9. ...  0.  0.  0.]
+ [ 0. 10.  9. ...  0.  0.  0.]
+ ...
+ [ 0.  0.  0. ...  0.  0.  0.]
+ [ 0.  0.  0. ...  0.  0.  0.]
+ [ 0.  0.  0. ...  0.  0.  0.]]",8,1,0.125,"[26, 41, 36, 1, 2, 60, 11, 46]"
+2144,D:/Dataset/cubicasa5k//high_quality_architectural/13469/model.svg,13469,"['Outdoor0', 'Outdoor1', 'Dining0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Other0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Storage0', 'Other1', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 3. ... 0. 0. 0.]
+ [0. 4. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,2,0.14285714285714285,"[60, 61, 21, 36, 41, 26, 46, 11, 12, 1, 70, 47, 2, 27]"
+681,D:/Dataset/cubicasa5k//high_quality_architectural/5031/model.svg,5031,"['Garage0', 'Outdoor0', 'Outdoor1', 'Outdoor2', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Storage0', 'Bedroom1', 'Bedroom2', 'Other0', 'Bath0', 'Other1', 'Bath1', 'Entry1', 'Bath2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 3. ... 0. 0. 0.]
+ [0. 4. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",17,2,0.11764705882352941,"[31, 60, 61, 62, 36, 41, 26, 11, 70, 12, 13, 46, 1, 47, 2, 27, 3]"
+712,D:/Dataset/cubicasa5k//high_quality_architectural/7063/model.svg,7063,"['Kitchen0', 'LivingRoom0', 'Bedroom0', 'Entry0', 'Outdoor0', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[36, 41, 11, 26, 60, 1, 46]"
+1080,D:/Dataset/cubicasa5k//high_quality_architectural/334/model.svg,334,"['Outdoor0', 'Outdoor1', 'Bath0', 'Other0', 'Kitchen0', 'Bedroom0', 'LivingRoom0', 'Entry0', 'Garage0', 'Other1', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Storage0', 'Storage1', 'Storage2', 'Other2', 'Entry1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",19,3,0.15789473684210525,"[60, 61, 1, 46, 36, 11, 41, 26, 31, 47, 12, 13, 14, 70, 71, 72, 52, 27, 2]"
+3111,D:/Dataset/cubicasa5k//high_quality/12239/model.svg,12239,"['Outdoor0', 'Kitchen0', 'Other0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Bedroom2', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[60, 36, 46, 26, 41, 11, 12, 1, 13, 47]"
+410,D:/Dataset/cubicasa5k//high_quality_architectural/6149/model.svg,6149,"['Entry0', 'Other0', 'Storage0', 'Kitchen0', 'Bedroom0', 'LivingRoom0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[26, 46, 70, 36, 11, 41, 60]"
+288,D:/Dataset/cubicasa5k//high_quality_architectural/6617/model.svg,6617,"['Bedroom0', 'LivingRoom0', 'Entry0', 'LivingRoom1', 'Dining0', 'Bedroom1', 'Kitchen0', 'Bath0', 'Storage0', 'Garage0', 'Bedroom2', 'Bedroom3', 'Bath1', 'Other0', 'Storage1', 'Bath2', 'Other1', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 4. ... 0. 0. 0.]
+ [0. 3. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",18,2,0.1111111111111111,"[11, 41, 26, 42, 21, 12, 36, 1, 70, 31, 13, 14, 2, 46, 71, 3, 47, 60]"
+874,D:/Dataset/cubicasa5k//high_quality_architectural/4619/model.svg,4619,"['LivingRoom0', 'Bedroom0', 'Entry0', 'Other0', 'Outdoor0', 'Outdoor1', 'Garage0', 'Bath0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Bedroom4', 'Storage0', 'Entry1', 'Storage1', 'Other1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",17,2,0.11764705882352941,"[41, 11, 26, 46, 60, 61, 31, 1, 12, 13, 14, 15, 70, 27, 71, 47, 2]"
+968,D:/Dataset/cubicasa5k//high_quality_architectural/6305/model.svg,6305,"['LivingRoom0', 'Kitchen0', 'Entry0', 'Bedroom0', 'Outdoor0', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[41, 36, 26, 11, 60, 1, 46]"
+678,D:/Dataset/cubicasa5k//high_quality_architectural/8311/model.svg,8311,"['Outdoor0', 'Entry0', 'Kitchen0', 'LivingRoom0', 'Other0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Storage0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,2,0.2,"[60, 26, 36, 41, 46, 11, 12, 13, 70, 47]"
+533,D:/Dataset/cubicasa5k//high_quality_architectural/5124/model.svg,5124,"['Other0', 'Storage0', 'Other1', 'Kitchen0', 'Entry0', 'Entry1', 'Other2', 'Other3', 'Bath0', 'Bath1', 'Entry2', 'Bath2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 3. ... 0. 0. 0.]
+ [0. 4. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",12,4,0.3333333333333333,"[46, 70, 47, 36, 26, 27, 52, 53, 1, 2, 28, 3]"
+614,D:/Dataset/cubicasa5k//high_quality_architectural/9295/model.svg,9295,"['Bath0', 'Entry0', 'Bedroom0', 'Outdoor0', 'Other0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,2,0.3333333333333333,"[1, 26, 11, 60, 46, 47]"
+3432,D:/Dataset/cubicasa5k//high_quality_architectural/8702/model.svg,8702,"['LivingRoom0', 'Kitchen0', 'Other0', 'Bedroom0', 'Bath0', 'Storage0', 'Outdoor0', 'Outdoor1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[41, 36, 46, 11, 1, 70, 60, 61]"
+1697,D:/Dataset/cubicasa5k//high_quality_architectural/11779/model.svg,11779,"['Entry0', 'Kitchen0', 'LivingRoom0', 'Outdoor0', 'Bedroom0', 'Bath0', 'Storage0', 'Other0', 'Storage1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",10,1,0.1,"[26, 36, 41, 60, 11, 1, 70, 46, 71, 27]"
+1727,D:/Dataset/cubicasa5k//high_quality_architectural/11874/model.svg,11874,"['Bedroom0', 'Kitchen0', 'Outdoor0', 'LivingRoom0', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[11, 36, 60, 41, 1, 46]"
+2560,D:/Dataset/cubicasa5k//colorful/3720/model.svg,3720,"['Bath0', 'Entry0', 'Kitchen0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",3,0,0.0,"[1, 26, 36]"
+859,D:/Dataset/cubicasa5k//high_quality_architectural/353/model.svg,353,"['Dining0', 'Kitchen0', 'Storage0', 'Outdoor0', 'Outdoor1', 'LivingRoom0', 'Bedroom0', 'Entry0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Storage1', 'Other0', 'Bath0', 'Storage2', 'Bath1', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",17,1,0.058823529411764705,"[21, 36, 70, 60, 61, 41, 11, 26, 12, 13, 14, 71, 46, 1, 72, 2, 27]"
+1580,D:/Dataset/cubicasa5k//high_quality_architectural/11376/model.svg,11376,"['Dining0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Outdoor0', 'Outdoor1', 'Bedroom0', 'Bedroom1', 'Storage0', 'Bedroom2', 'Bath0', 'Other0', 'Storage1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",14,1,0.07142857142857142,"[21, 36, 41, 26, 60, 61, 11, 12, 70, 13, 1, 46, 71, 2]"
+1667,D:/Dataset/cubicasa5k//high_quality_architectural/11683/model.svg,11683,"['Other0', 'LivingRoom0', 'Outdoor0', 'Kitchen0', 'Bedroom0', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,1,0.14285714285714285,"[46, 41, 60, 36, 11, 1, 70]"
+694,D:/Dataset/cubicasa5k//high_quality_architectural/5533/model.svg,5533,"['LivingRoom0', 'Entry0', 'Storage0', 'Other0', 'Bath0', 'Outdoor0', 'Bedroom0', 'Kitchen0', 'Bedroom1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[41, 26, 70, 46, 1, 60, 11, 36, 12]"
+2410,D:/Dataset/cubicasa5k//high_quality_architectural/14605/model.svg,14605,"['Outdoor0', 'Outdoor1', 'LivingRoom0', 'Kitchen0', 'LivingRoom1', 'Bedroom0', 'Bath0', 'Other0', 'Entry0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[60, 61, 41, 36, 42, 11, 1, 46, 26]"
+650,D:/Dataset/cubicasa5k//high_quality_architectural/68/model.svg,68,"['Other0', 'Entry0', 'LivingRoom0', 'Bedroom0', 'Bath0', 'Other1', 'Bath1', 'Other2', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,3,0.3333333333333333,"[46, 26, 41, 11, 1, 47, 2, 52, 70]"
+1134,D:/Dataset/cubicasa5k//high_quality_architectural/8039/model.svg,8039,"['Bath0', 'Entry0', 'Storage0', 'Storage1', 'Other0', 'Other1', 'Bath1', 'Storage2', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Kitchen0', 'Garage0', 'Outdoor0', 'Outdoor1', 'LivingRoom0', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 6. ... 0. 0. 0.]
+ [0. 7. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",17,2,0.11764705882352941,"[1, 26, 70, 71, 46, 47, 2, 72, 11, 12, 13, 36, 31, 60, 61, 41, 27]"
+802,D:/Dataset/cubicasa5k//high_quality_architectural/3892/model.svg,3892,"['Storage0', 'Bath0', 'Other0', 'Bedroom0', 'Kitchen0', 'Bedroom1', 'LivingRoom0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[70, 1, 46, 11, 36, 12, 41, 60]"
+1342,D:/Dataset/cubicasa5k//high_quality_architectural/10512/model.svg,10512,"['Outdoor0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Bedroom0', 'Bedroom1', 'Bath0', 'Bath1', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 8. ... 0. 0. 0.]
+ [0. 5. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,1,0.1111111111111111,"[60, 36, 41, 26, 11, 12, 1, 2, 46]"
+2656,D:/Dataset/cubicasa5k//high_quality/5686/model.svg,5686,"['Other0', 'Bedroom0', 'Bedroom1', 'LivingRoom0', 'Kitchen0', 'Entry0', 'Bath0', 'Outdoor0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[46, 11, 12, 41, 36, 26, 1, 60]"
+761,D:/Dataset/cubicasa5k//high_quality_architectural/3184/model.svg,3184,"['LivingRoom0', 'Other0', 'Entry0', 'Other1', 'Bath0', 'Kitchen0', 'Kitchen1', 'Outdoor0', 'Outdoor1', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Entry1', 'Storage0', 'Bath1', 'Outdoor2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",16,2,0.125,"[41, 46, 26, 47, 1, 36, 37, 60, 61, 11, 12, 13, 27, 70, 2, 62]"
+3421,D:/Dataset/cubicasa5k//high_quality_architectural/3210/model.svg,3210,"['LivingRoom0', 'Entry0', 'Bedroom0', 'Kitchen0', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[41, 26, 11, 36, 1, 46]"
+322,D:/Dataset/cubicasa5k//high_quality_architectural/5050/model.svg,5050,"['Outdoor0', 'Bedroom0', 'LivingRoom0', 'Kitchen0', 'Bedroom1', 'Entry0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,0,0.0,"[60, 11, 41, 36, 12, 26]"
+1864,D:/Dataset/cubicasa5k//high_quality_architectural/12448/model.svg,12448,"['Outdoor0', 'Outdoor1', 'Storage0', 'Entry0', 'LivingRoom0', 'Other0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Bedroom3', 'Bedroom4', 'Storage1', 'Bath0', 'Bath1', 'Storage2', 'Bath2', 'Entry1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 4. ... 0. 0. 0.]
+ [0. 3. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",18,1,0.05555555555555555,"[60, 61, 70, 26, 41, 46, 36, 11, 12, 13, 14, 15, 71, 1, 2, 72, 3, 27]"
+2203,D:/Dataset/cubicasa5k//high_quality_architectural/13702/model.svg,13702,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Other0', 'Bedroom0', 'Other1', 'Bath0', 'Other2']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,3,0.375,"[60, 41, 36, 46, 11, 47, 1, 52]"
+3442,D:/Dataset/cubicasa5k//high_quality_architectural/9556/model.svg,9556,"['Entry0', 'LivingRoom0', 'Kitchen0', 'Outdoor0', 'Bedroom0', 'Other0', 'Storage0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,2,0.25,"[26, 41, 36, 60, 11, 46, 70, 47]"
+2062,D:/Dataset/cubicasa5k//high_quality_architectural/13167/model.svg,13167,"['Kitchen0', 'Entry0', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",4,1,0.25,"[36, 26, 1, 46]"
+1694,D:/Dataset/cubicasa5k//high_quality_architectural/11766/model.svg,11766,"['Outdoor0', 'Outdoor1', 'Entry0', 'Other0', 'Kitchen0', 'Other1', 'LivingRoom0', 'Bath0', 'Storage0', 'Bedroom0', 'Other2', 'Entry1', 'Storage1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,3,0.23076923076923078,"[60, 61, 26, 46, 36, 47, 41, 1, 70, 11, 52, 27, 71]"
+348,D:/Dataset/cubicasa5k//high_quality_architectural/1836/model.svg,1836,"['Outdoor0', 'Entry0', 'Kitchen0', 'LivingRoom0', 'Bedroom0', 'Bath0', 'Storage0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",8,1,0.125,"[60, 26, 36, 41, 11, 1, 70, 46]"
+1742,D:/Dataset/cubicasa5k//high_quality_architectural/11926/model.svg,11926,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Entry0', 'Bath0', 'Other0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,2,0.2222222222222222,"[60, 41, 36, 11, 12, 26, 1, 46, 47]"
+1806,D:/Dataset/cubicasa5k//high_quality_architectural/12167/model.svg,12167,"['Outdoor0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'LivingRoom1', 'Bath0', 'Storage0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",7,0,0.0,"[60, 36, 41, 26, 42, 1, 70]"
+3435,D:/Dataset/cubicasa5k//high_quality_architectural/9096/model.svg,9096,"['Bath0', 'Bedroom0', 'Storage0', 'Bedroom1', 'Storage1', 'Bedroom2', 'Other0', 'Bath1', 'Entry0', 'LivingRoom0', 'Kitchen0', 'LivingRoom1', 'Entry1', 'Kitchen1', 'Other1', 'Other2', 'Other3', 'Outdoor0', 'Outdoor1', 'Outdoor2', 'Outdoor3', 'Bedroom3', 'Bath2', 'Other4', 'Other5', 'Bath3']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",26,6,0.23076923076923078,"[1, 11, 70, 12, 71, 13, 46, 2, 26, 41, 36, 42, 27, 37, 47, 52, 53, 60, 61, 62, 63, 14, 3, 54, 55, 4]"
+1084,D:/Dataset/cubicasa5k//high_quality_architectural/6453/model.svg,6453,"['Entry0', 'Kitchen0', 'Outdoor0', 'Bedroom0', 'Bath0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[26, 36, 60, 11, 1, 46]"
+2668,D:/Dataset/cubicasa5k//high_quality/2052/model.svg,2052,"['Outdoor0', 'Entry0', 'Kitchen0', 'LivingRoom0', 'Other0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",5,1,0.2,"[60, 26, 36, 41, 46]"
+2463,D:/Dataset/cubicasa5k//high_quality_architectural/14818/model.svg,14818,"['Outdoor0', 'Garage0', 'Outdoor1', 'Outdoor2', 'Other0', 'LivingRoom0', 'Entry0', 'Other1', 'Bath0', 'Other2', 'Other3', 'Storage0', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,4,0.3076923076923077,"[60, 31, 61, 62, 46, 41, 26, 47, 1, 52, 53, 70, 2]"
+2503,D:/Dataset/cubicasa5k//high_quality_architectural/20085/model.svg,20085,"['Outdoor0', 'LivingRoom0', 'Kitchen0', 'LivingRoom1', 'Other0', 'Bath0']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",6,1,0.16666666666666666,"[60, 41, 36, 42, 46, 1]"
+2557,D:/Dataset/cubicasa5k//colorful/9174/model.svg,9174,"['Outdoor0', 'Outdoor1', 'LivingRoom0', 'Other0', 'Dining0', 'Kitchen0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Other1', 'Other2', 'Bath0', 'Other3']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,4,0.3076923076923077,"[60, 61, 41, 46, 21, 36, 11, 12, 13, 47, 52, 1, 53]"
+2905,D:/Dataset/cubicasa5k//high_quality/6423/model.svg,6423,"['Outdoor0', 'Bedroom0', 'Kitchen0', 'Entry0', 'Bedroom1', 'LivingRoom0', 'Other0', 'Storage0', 'Other1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",9,2,0.2222222222222222,"[60, 11, 36, 26, 12, 41, 46, 70, 47]"
+673,D:/Dataset/cubicasa5k//high_quality_architectural/3652/model.svg,3652,"['Outdoor0', 'Bath0', 'Storage0', 'Kitchen0', 'LivingRoom0', 'Entry0', 'Outdoor1', 'Other0', 'Bedroom0', 'Bedroom1', 'Bedroom2', 'Other1', 'Bath1']","[[0. 0. 0. ... 0. 0. 0.]
+ [0. 9. 0. ... 0. 0. 0.]
+ [0. 0. 9. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]",13,2,0.15384615384615385,"[60, 1, 70, 36, 41, 26, 61, 46, 11, 12, 13, 47, 2]"
