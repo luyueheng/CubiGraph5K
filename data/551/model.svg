@@ -1,0 +1,524 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="1302.1500244140625" version="1.1" width="2168.2900009155273" id="temp" viewBox="0 0 2168.2900009155273 1302.1500244140625"><defs/><g id="Model" class="Model v1-1"><g class="Floor"><g id="Floor-1" transform="matrix(1,0,0,1,0,0)" class="Floorplan Floor-1"><g id="032dacc1-4261-4fc3-8520-b39410e9c52d" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;" class="Space Outdoor CoveredArea"><polygon points="2032.94,753.57 2168.29,753.57 2168.29,1034.11 2034.34,1034.11 2032.94,753.57 2032.94,753.57 "/><g transform="matrix(1,0,0,1,2033.6388,753.5674)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,66.9774,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,134.6552,140.2679)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,66.9774,280.5428)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,140.2679)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,11.8535,152.3609)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">KATOS</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-30.1875,40.0312)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">4'5" x 9'2"</text><text x="0" y="0"/></g></g></g></g><g id="5542e455-2c22-4f0b-8255-164c8b2d7555" class="Space Undefined" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="2002.71,1069.93 1881.08,1069.93 1881.08,898.52 2002.71,898.52 "/><g transform="matrix(1,0,0,1,1881.0767,898.5178)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,60.8151,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,121.6302,85.7056)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,60.8151,171.4112)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,85.7056)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,60.8151,60.8151)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">UNDEFINED</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-40.5313,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="52.6796875" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">4'0" x 5'7"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">1.22 m x 1.71 m</text></g></g></g></g><g id="43edcb29-a939-49ff-a38f-4ab559e4951b" class="Space Bath" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="354.59,663.10 155.54,663.10 155.54,477.66 354.59,477.66 "/><g transform="matrix(1,0,0,1,155.5382,477.6618)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,99.5267,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,199.0534,92.7178)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,99.5267,185.4356)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,92.7178)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,89.2373,92.7178)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">WC</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-112.1797,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="52.6796875" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">6'6" x 6'1"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">1.99 m x 1.85 m</text></g></g></g></g><g id="15177d5d-25aa-4b3b-b314-8a344b5482e6" class="Space Undefined" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1798.82,638.74 1629.04,638.74 1629.04,555.36 1588.62,555.36 1588.62,445.62 1798.82,445.62 "/><g transform="matrix(1,0,0,1,1588.6161,445.6205)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,105.1042,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,210.2084,96.5588)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,105.1042,193.1175)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,96.5588)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,123.7159,87.5063)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">UNDEFINED</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-40.5313,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="42.1875" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">6'11" x 6'4"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">2.10 m x 1.93 m</text></g></g></g></g><g id="0b6b0346-42ba-44a3-b9a4-47c3a4d2c444" class="Space Room" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="805.73,1008.95 488.30,1008.95 488.30,675.10 805.73,675.10 "/><g transform="matrix(1,0,0,1,488.2994,675.0974)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,158.7161,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,317.4323,166.9269)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,158.7161,333.8537)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,166.9269)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,139.7777,190.5999)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">AH</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-116.3359,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="21.2109375" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">10'5" x 10'11"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">3.17 m x 3.34 m</text></g></g></g></g><g id="de81028e-acfb-4257-98f2-789676326cb1" class="Space Room" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="476.30,1008.95 155.54,1008.95 155.54,675.10 476.30,675.10 "/><g transform="matrix(1,0,0,1,155.5382,675.0974)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,160.3806,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,320.7612,166.9269)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,160.3806,333.8537)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,166.9269)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,136.7076,181.1307)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">AH</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-116.3359,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="21.2109375" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">10'6" x 10'11"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">3.21 m x 3.34 m</text></g></g></g></g><g id="956982e2-bbf9-45d2-8073-e7434a43ffab" class="Space Room" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="2002.71,429.94 1578.94,429.94 1578.94,157.85 2002.71,157.85 "/><g transform="matrix(1,0,0,1,1578.9442,157.8545)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,211.8813,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,423.7627,136.0408)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,211.8813,272.0815)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,136.0408)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,211.8814,136.0407)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">AH</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-116.3359,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="21.2109375" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">13'11" x 8'11"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">4.24 m x 2.72 m</text></g></g></g></g><g id="40891091-f45f-41dd-9d26-77b4a9587067" class="Space Utility Laundry" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="2002.71,886.52 1869.08,886.52 1869.08,1069.93 1578.94,1069.93 1578.94,751.93 1773.31,751.93 1773.31,650.74 2002.71,650.74 "/><g transform="matrix(1,0,0,1,1578.9442,650.738)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,211.8813,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,423.7627,209.5955)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,211.8813,419.191)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,209.5955)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,158.1449,221.45)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">KHH</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-103.7813,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="21.2109375" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">13'11" x 13'9"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">4.24 m x 4.19 m</text></g></g></g></g><g id="5961238d-ad1c-4cd2-ac20-129e6a2d4a9e" class="Space Room" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="812.83,374.97 678.85,465.66 155.54,465.66 155.54,98.10 812.83,98.10 "/><g transform="matrix(1,0,0,1,155.5382,98.0964)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,328.6472,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,657.2945,183.7827)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,328.6472,367.5654)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,183.7827)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,295.4958,169.0836)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">AH</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-116.3359,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="31.6953125" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">21'7" x 12'1"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">6.57 m x 3.68 m</text></g></g></g></g><g id="6d5a3957-76e5-4b17-8b8f-135000cdb09c" class="Space LivingRoom" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1566.14,157.85 1566.70,157.00 1566.70,638.74 1315.83,638.74 1315.83,645.37 819.26,645.37 819.26,385.00 824.83,381.34 824.83,98.10 1566.14,98.10 "/><g transform="matrix(1,0,0,1,824.8327,98.0964)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,368.1473,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,741.8703,273.638)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,368.1473,547.276)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,273.638)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,343.9436,259.8743)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">OH</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-114.625,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="21.2109375" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">24'4" x 17'11"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">7.42 m x 5.47 m</text></g></g></g></g><g id="d199b6b8-154c-4750-9730-fd93a1e68baa" class="Space Kitchen" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1315.83,711.58 1327.83,711.58 1327.83,650.74 1566.70,650.74 1566.70,1069.93 1072.00,1069.93 1072.00,736.71 1134.25,736.71 1134.25,724.71 1065.77,724.71 1065.77,645.37 1315.83,645.37 "/><g transform="matrix(1,0,0,1,1072.0009,645.3724)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,243.8297,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,494.702,212.2783)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,243.8297,424.5567)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,212.2783)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,230.0542,233.122)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">K</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-128.5078,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="21.2109375" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">16'3" x 13'11"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">4.95 m x 4.25 m</text></g></g></g></g><g id="e083a98a-78b9-4599-a3fe-960463f9ea02" class="Space Entry Lobby" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="819.26,645.37 1065.77,645.37 1065.77,724.71 1060.00,724.71 1060.00,1069.93 817.73,1069.93 817.73,663.10 366.59,663.10 366.59,477.66 682.53,477.66 819.26,385.00 "/><g transform="matrix(1,0,0,1,366.5916,432.8702)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,451.1401,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,699.1776,230.2272)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,451.1401,637.0588)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,230.2272)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,534.681,441.0457)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">ET</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-119.0781,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="10.71875" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">22'11" x 20'11"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">6.99 m x 6.37 m</text></g></g></g></g><g id="33a5e311-1168-47cf-8615-ae6eb077d61a" class="Space Bath Shower" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1814.51,638.74 1997.98,638.74 2002.71,441.94 1814.51,441.94 1814.51,638.74 1814.51,638.74 "/><g transform="matrix(1,0,0,1,1814.5091,441.9359)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,94.0989,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,185.8339,98.3442)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,94.0989,196.8021)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,98.3442)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,54.7036,102.3933)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">PESUH</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-83.875,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="52.6796875" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">6'1" x 6'5"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">1.86 m x 1.97 m</text></g></g></g></g><g id="150e6b45-80d9-480f-a7ad-bd894376966c" class="Space Bath" fill="#ffffff" stroke="#ffffff" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1761.31,739.93 1578.94,739.93 1578.94,650.74 1761.31,650.74 "/><g transform="matrix(1,0,0,1,1578.9442,650.738)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,91.1836,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,182.3672,44.5964)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,91.1836,89.1928)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,44.5964)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,81.3441,51.9459)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">WC</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-112.1797,79.5938)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="42.1875" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">6'0" x 2'11"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">1.82 m x 0.89 m</text></g></g></g></g><g id="ca49eab5-1563-455c-9bba-91549a909f7a" class="Space Outdoor CoveredArea" fill="#ffffff" stroke="#000000" style="stroke-width: 0.2; fill-opacity: 1; stroke-opacity: 1;"><polygon points="785.73,1100.93 785.73,1301.93 1059.71,1301.93 1059.84,1100.93 785.73,1100.93 785.73,1100.93 "/><g transform="matrix(1,0,0,1,785.7261,1100.929)" class="Dimension"><g transform="matrix(1,0,0,1,0,0)" style="display: none;" class="Visual"><g id="mark1" fill="#000000" stroke="none" transform="matrix(1,0,0,1,137.0593,0)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,5,0,0,5,5"/></g><g id="mark2" fill="#000000" stroke="none" transform="matrix(1,0,0,1,274.0519,100.5007)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,-5,5"/></g><g id="mark3" fill="#000000" stroke="none" transform="matrix(1,0,0,1,137.0593,201.0015)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="-5,-5,0,0,5,-5"/></g><g id="mark4" fill="#000000" stroke="none" transform="matrix(1,0,0,1,0,100.5007)" style="fill-opacity: 1; pointer-events: visible;" class="DimensionMark"><polygon points="5,5,0,0,5,-5"/></g></g><g transform="matrix(1,0,0,1,87.4637,133.0933)" class="SpaceDimensionsLabel"><g id="NameLabel" style="display: block;" class="TextLabel NameLabel"><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">KATOS</text></g><g id="DimensionMeasureLabel" transform="matrix(1,0,0,1,-82.8437,79.6249)" style="display: none;" class="TextLabel DimensionMeasureLabel"><text x="52.65625" y="-1.2em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">9'0" x 6'7"</text><text x="0" y="0em" fill="#000000" stroke="none" style="font-family: Verdana; font-size: 33px; fill-opacity: 1; cursor: default;">2.74 m x 2.01 m</text></g></g></g></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="785.73,1100.93 2033.71,1100.93 2002.71,1069.93 817.73,1069.93 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="830.54,1100.93 920.15,1100.93 920.15,1069.93 830.54,1069.93 "/><g id="Threshold" class="Threshold"><polygon points="830.54,1100.93 920.15,1100.93 920.15,1069.93 830.54,1069.93 "/></g><g id="Panel" fill="none" style="" class="Panel Right Negative"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="830.54,1100.93 920.15,1100.93 920.15,1069.93 830.54,1069.93 "/></g><path d="M920.15,1100.93 q0.00,89.61 -89.61,89.61 l0.00,-89.61Z"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="926.46,1100.93 956.07,1100.93 956.07,1069.93 926.46,1069.93 "/><g id="Glass" class="Glass"><polygon points="926.46,1100.93 956.07,1100.93 956.07,1069.93 926.46,1069.93 "/></g><g id="Panel" class="Panel"><line x1="933.9600219726562" x2="948.5700073242188" y1="1085.4300537109375" y2="1085.4300537109375"/><line x1="933.9600219726562" x2="933.9600219726562" y1="1100.9300537109375" y2="1069.9300537109375"/><line x1="948.5700073242188" x2="948.5700073242188" y1="1100.9300537109375" y2="1069.9300537109375"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1209.48,1100.93 1263.56,1100.93 1263.56,1069.93 1209.48,1069.93 "/><g id="Glass" class="Glass"><polygon points="1209.48,1100.93 1263.56,1100.93 1263.56,1069.93 1209.48,1069.93 "/></g><g id="Panel" class="Panel"><line x1="1216.97998046875" x2="1256.06005859375" y1="1085.4300537109375" y2="1085.4300537109375"/><line x1="1216.97998046875" x2="1216.97998046875" y1="1100.9300537109375" y2="1069.9300537109375"/><line x1="1256.06005859375" x2="1256.06005859375" y1="1100.9300537109375" y2="1069.9300537109375"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1263.56,1100.93 1376.06,1100.93 1376.06,1069.93 1263.56,1069.93 "/><g id="Glass" class="Glass"><polygon points="1263.56,1100.93 1376.06,1100.93 1376.06,1069.93 1263.56,1069.93 "/></g><g id="Panel" class="Panel"><line x1="1271.06005859375" x2="1368.56005859375" y1="1085.4300537109375" y2="1085.4300537109375"/><line x1="1271.06005859375" x2="1271.06005859375" y1="1100.9300537109375" y2="1069.9300537109375"/><line x1="1368.56005859375" x2="1368.56005859375" y1="1100.9300537109375" y2="1069.9300537109375"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1376.06,1100.93 1421.05,1100.93 1421.05,1069.93 1376.06,1069.93 "/><g id="Glass" class="Glass"><polygon points="1376.06,1100.93 1421.05,1100.93 1421.05,1069.93 1376.06,1069.93 "/></g><g id="Panel" class="Panel"><line x1="1383.56005859375" x2="1413.550048828125" y1="1085.4300537109375" y2="1085.4300537109375"/><line x1="1383.56005859375" x2="1383.56005859375" y1="1100.9300537109375" y2="1069.9300537109375"/><line x1="1413.550048828125" x2="1413.550048828125" y1="1100.9300537109375" y2="1069.9300537109375"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1707.63,1100.93 1797.23,1100.93 1797.23,1069.93 1707.63,1069.93 "/><g id="Glass" class="Glass"><polygon points="1707.63,1100.93 1797.23,1100.93 1797.23,1069.93 1707.63,1069.93 "/></g><g id="Panel" class="Panel"><line x1="1715.1300048828125" x2="1789.72998046875" y1="1085.4300537109375" y2="1085.4300537109375"/><line x1="1715.1300048828125" x2="1715.1300048828125" y1="1100.9300537109375" y2="1069.9300537109375"/><line x1="1789.72998046875" x2="1789.72998046875" y1="1100.9300537109375" y2="1069.9300537109375"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1797.23,1100.93 1851.31,1100.93 1851.31,1069.93 1797.23,1069.93 "/><g id="Glass" class="Glass"><polygon points="1797.23,1100.93 1851.31,1100.93 1851.31,1069.93 1797.23,1069.93 "/></g><g id="Panel" class="Panel"><line x1="1804.72998046875" x2="1843.81005859375" y1="1085.4300537109375" y2="1085.4300537109375"/><line x1="1804.72998046875" x2="1804.72998046875" y1="1100.9300537109375" y2="1069.9300537109375"/><line x1="1843.81005859375" x2="1843.81005859375" y1="1100.9300537109375" y2="1069.9300537109375"/></g></g></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1566.14,157.85 1566.14,98.10 1597.14,67.10 1597.14,126.85 "/></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1566.14,98.10 155.54,98.10 124.54,67.10 1597.14,67.10 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="1522.22,98.10 1439.62,98.10 1439.62,67.10 1522.22,67.10 "/><g id="Threshold" class="Threshold"><polygon points="1522.22,98.10 1439.62,98.10 1439.62,67.10 1522.22,67.10 "/></g><g id="Panel" fill="none" style="" class="Panel Left Positive"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="1522.22,98.10 1439.62,98.10 1439.62,67.10 1522.22,67.10 "/></g><path d="M1439.62,67.10 q0.00,-82.60 82.60,-82.60 l0.00,82.60Z"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1402.64,98.10 1291.28,98.10 1291.28,67.10 1402.64,67.10 "/><g id="Glass" class="Glass"><polygon points="1402.64,98.10 1291.28,98.10 1291.28,67.10 1402.64,67.10 "/></g><g id="Panel" class="Panel"><line x1="1395.1400146484375" x2="1298.780029296875" y1="82.5999984741211" y2="82.5999984741211"/><line x1="1395.1400146484375" x2="1395.1400146484375" y1="98.0999984741211" y2="67.0999984741211"/><line x1="1298.780029296875" x2="1298.780029296875" y1="98.0999984741211" y2="67.0999984741211"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1281.01,98.10 1172.12,98.10 1172.12,67.10 1281.01,67.10 "/><g id="Glass" class="Glass"><polygon points="1281.01,98.10 1172.12,98.10 1172.12,67.10 1281.01,67.10 "/></g><g id="Panel" class="Panel"><line x1="1273.510009765625" x2="1179.6199951171875" y1="82.5999984741211" y2="82.5999984741211"/><line x1="1273.510009765625" x2="1273.510009765625" y1="98.0999984741211" y2="67.0999984741211"/><line x1="1179.6199951171875" x2="1179.6199951171875" y1="98.0999984741211" y2="67.0999984741211"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1140.89,98.10 1029.94,98.10 1029.94,67.10 1140.89,67.10 "/><g id="Glass" class="Glass"><polygon points="1140.89,98.10 1029.94,98.10 1029.94,67.10 1140.89,67.10 "/></g><g id="Panel" class="Panel"><line x1="1133.3900146484375" x2="1037.43994140625" y1="82.5999984741211" y2="82.5999984741211"/><line x1="1133.3900146484375" x2="1133.3900146484375" y1="98.0999984741211" y2="67.0999984741211"/><line x1="1037.43994140625" x2="1037.43994140625" y1="98.0999984741211" y2="67.0999984741211"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1018.85,98.10 907.49,98.10 907.49,67.10 1018.85,67.10 "/><g id="Glass" class="Glass"><polygon points="1018.85,98.10 907.49,98.10 907.49,67.10 1018.85,67.10 "/></g><g id="Panel" class="Panel"><line x1="1011.3499755859375" x2="914.989990234375" y1="82.5999984741211" y2="82.5999984741211"/><line x1="1011.3499755859375" x2="1011.3499755859375" y1="98.0999984741211" y2="67.0999984741211"/><line x1="914.989990234375" x2="914.989990234375" y1="98.0999984741211" y2="67.0999984741211"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="665.01,98.10 552.08,98.10 552.08,67.10 665.01,67.10 "/><g id="Glass" class="Glass"><polygon points="665.01,98.10 552.08,98.10 552.08,67.10 665.01,67.10 "/></g><g id="Panel" class="Panel"><line x1="657.510009765625" x2="559.5800170898438" y1="82.5999984741211" y2="82.5999984741211"/><line x1="657.510009765625" x2="657.510009765625" y1="98.0999984741211" y2="67.0999984741211"/><line x1="559.5800170898438" x2="559.5800170898438" y1="98.0999984741211" y2="67.0999984741211"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="543.61,98.10 435.39,98.10 435.39,67.10 543.61,67.10 "/><g id="Glass" class="Glass"><polygon points="543.61,98.10 435.39,98.10 435.39,67.10 543.61,67.10 "/></g><g id="Panel" class="Panel"><line x1="536.1099853515625" x2="442.8900146484375" y1="82.5999984741211" y2="82.5999984741211"/><line x1="536.1099853515625" x2="536.1099853515625" y1="98.0999984741211" y2="67.0999984741211"/><line x1="442.8900146484375" x2="442.8900146484375" y1="98.0999984741211" y2="67.0999984741211"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="425.50,98.10 313.99,98.10 313.99,67.10 425.50,67.10 "/><g id="Glass" class="Glass"><polygon points="425.50,98.10 313.99,98.10 313.99,67.10 425.50,67.10 "/></g><g id="Panel" class="Panel"><line x1="418" x2="321.489990234375" y1="82.5999984741211" y2="82.5999984741211"/><line x1="418" x2="418" y1="98.0999984741211" y2="67.0999984741211"/><line x1="321.489990234375" x2="321.489990234375" y1="98.0999984741211" y2="67.0999984741211"/></g></g></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="155.54,98.10 155.54,1008.95 124.54,1039.95 124.54,67.10 "/><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="155.54,366.65 155.54,420.16 124.54,420.16 124.54,366.65 "/><g id="Glass" class="Glass"><polygon points="155.54,366.65 155.54,420.16 124.54,420.16 124.54,366.65 "/></g><g id="Panel" class="Panel"><line x1="140.03999710083008" x2="140.03999710083008" y1="374.1499938964844" y2="412.6600036621094"/><line x1="155.5399932861328" x2="124.54000091552734" y1="374.1499938964844" y2="374.1499938964844"/><line x1="155.5399932861328" x2="124.54000091552734" y1="412.6600036621094" y2="412.6600036621094"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="155.54,561.97 155.54,610.88 124.54,610.88 124.54,561.97 "/><g id="Glass" class="Glass"><polygon points="155.54,561.97 155.54,610.88 124.54,610.88 124.54,561.97 "/></g><g id="Panel" class="Panel"><line x1="140.03999710083008" x2="140.03999710083008" y1="569.469970703125" y2="603.3800048828125"/><line x1="155.5399932861328" x2="124.54000091552734" y1="569.469970703125" y2="569.469970703125"/><line x1="155.5399932861328" x2="124.54000091552734" y1="603.3800048828125" y2="603.3800048828125"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="155.54,747.43 155.54,796.80 124.54,796.80 124.54,747.43 "/><g id="Glass" class="Glass"><polygon points="155.54,747.43 155.54,796.80 124.54,796.80 124.54,747.43 "/></g><g id="Panel" class="Panel"><line x1="140.03999710083008" x2="140.03999710083008" y1="754.9299926757812" y2="789.2999877929688"/><line x1="155.5399932861328" x2="124.54000091552734" y1="754.9299926757812" y2="754.9299926757812"/><line x1="155.5399932861328" x2="124.54000091552734" y1="789.2999877929688" y2="789.2999877929688"/></g></g></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="155.54,1008.95 817.73,1008.95 785.73,1039.95 124.54,1039.95 "/><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="239.64,1008.95 291.74,1008.95 291.74,1039.95 239.64,1039.95 "/><g id="Glass" class="Glass"><polygon points="239.64,1008.95 291.74,1008.95 291.74,1039.95 239.64,1039.95 "/></g><g id="Panel" class="Panel"><line x1="247.13999938964844" x2="284.239990234375" y1="1024.4499816894531" y2="1024.4499816894531"/><line x1="247.13999938964844" x2="247.13999938964844" y1="1008.9500122070312" y2="1039.949951171875"/><line x1="284.239990234375" x2="284.239990234375" y1="1008.9500122070312" y2="1039.949951171875"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="291.74,1008.95 383.71,1008.95 383.71,1039.95 291.74,1039.95 "/><g id="Glass" class="Glass"><polygon points="291.74,1008.95 383.71,1008.95 383.71,1039.95 291.74,1039.95 "/></g><g id="Panel" class="Panel"><line x1="299.239990234375" x2="376.2099914550781" y1="1024.4499816894531" y2="1024.4499816894531"/><line x1="299.239990234375" x2="299.239990234375" y1="1008.9500122070312" y2="1039.949951171875"/><line x1="376.2099914550781" x2="376.2099914550781" y1="1008.9500122070312" y2="1039.949951171875"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="565.68,1008.95 613.44,1008.95 613.44,1039.95 565.68,1039.95 "/><g id="Glass" class="Glass"><polygon points="565.68,1008.95 613.44,1008.95 613.44,1039.95 565.68,1039.95 "/></g><g id="Panel" class="Panel"><line x1="573.1799926757812" x2="605.9400024414062" y1="1024.4499816894531" y2="1024.4499816894531"/><line x1="573.1799926757812" x2="573.1799926757812" y1="1008.9500122070312" y2="1039.949951171875"/><line x1="605.9400024414062" x2="605.9400024414062" y1="1008.9500122070312" y2="1039.949951171875"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="613.84,1008.95 705.81,1008.95 705.81,1039.95 613.84,1039.95 "/><g id="Glass" class="Glass"><polygon points="613.84,1008.95 705.81,1008.95 705.81,1039.95 613.84,1039.95 "/></g><g id="Panel" class="Panel"><line x1="621.3400268554688" x2="698.3099975585938" y1="1024.4499816894531" y2="1024.4499816894531"/><line x1="621.3400268554688" x2="621.3400268554688" y1="1008.9500122070312" y2="1039.949951171875"/><line x1="698.3099975585938" x2="698.3099975585938" y1="1008.9500122070312" y2="1039.949951171875"/></g></g></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="785.73,1039.95 785.73,1100.93 817.73,1069.93 817.73,1008.95 "/></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1606.86,116.53 1607.86,116.53 1607.86,85.53 1606.86,85.53 "/></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="2033.71,126.85 1597.14,126.85 1597.14,157.85 2002.71,157.85 "/><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1920.80,126.85 1867.80,126.85 1867.80,157.85 1920.80,157.85 "/><g id="Glass" class="Glass"><polygon points="1920.80,126.85 1867.80,126.85 1867.80,157.85 1920.80,157.85 "/></g><g id="Panel" class="Panel"><line x1="1913.300048828125" x2="1875.300048828125" y1="142.35000228881836" y2="142.35000228881836"/><line x1="1913.300048828125" x2="1913.300048828125" y1="126.8499984741211" y2="157.85000610351562"/><line x1="1875.300048828125" x2="1875.300048828125" y1="126.8499984741211" y2="157.85000610351562"/></g></g><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="1867.80,126.85 1776.98,126.85 1776.98,157.85 1867.80,157.85 "/><g id="Glass" class="Glass"><polygon points="1867.80,126.85 1776.98,126.85 1776.98,157.85 1867.80,157.85 "/></g><g id="Panel" class="Panel"><line x1="1860.300048828125" x2="1784.47998046875" y1="142.35000228881836" y2="142.35000228881836"/><line x1="1860.300048828125" x2="1860.300048828125" y1="126.8499984741211" y2="157.85000610351562"/><line x1="1784.47998046875" x2="1784.47998046875" y1="126.8499984741211" y2="157.85000610351562"/></g></g></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1597.14,126.85 1566.70,126.85 1578.94,157.85 1597.14,157.85 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="817.73,1008.95 817.73,663.10 805.73,675.10 805.73,1008.95 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="817.73,663.10 124.54,663.10 124.54,675.10 805.73,675.10 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="468.94,663.10 385.33,663.10 385.33,675.10 468.94,675.10 "/><g id="Threshold" class="Threshold"><polygon points="468.94,663.10 385.33,663.10 385.33,675.10 468.94,675.10 "/></g><g id="Panel" fill="none" style="" class="Panel Left Positive"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="468.94,663.10 385.33,663.10 385.33,675.10 468.94,675.10 "/></g><path d="M385.33,675.10 q0.00,83.61 83.61,83.61 l0.00,-83.61Z"/></g></g><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="784.86,663.10 702.37,663.10 702.37,675.10 784.86,675.10 "/><g id="Threshold" class="Threshold"><polygon points="784.86,663.10 702.37,663.10 702.37,675.10 784.86,675.10 "/></g><g id="Panel" fill="none" style="" class="Panel Left Positive"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="784.86,663.10 702.37,663.10 702.37,675.10 784.86,675.10 "/></g><path d="M702.37,675.10 q0.00,82.49 82.49,82.49 l0.00,-82.49Z"/></g></g></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="124.54,477.66 682.53,477.66 678.85,465.66 124.54,465.66 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="682.53,477.66 824.83,381.34 812.83,374.97 678.85,465.66 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="692.97,470.60 811.03,390.69 804.30,380.75 686.24,460.66 "/><g id="Threshold" class="Threshold"><polygon points="692.97,470.60 811.03,390.69 804.30,380.75 686.24,460.66 "/></g><g id="Panel" fill="none" style="" class="Panel Left Positive"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="692.97,470.60 752.00,430.64 745.27,420.71 686.24,460.66 "/></g><path d="M745.27,420.70 q-39.99,-59.01 -99.02,-19.05 l39.99,59.01Z"/></g><g id="Panel" fill="none" style="" class="Panel Right Positive"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="752.00,430.64 811.03,390.69 804.30,380.75 745.27,420.71 "/></g><path d="M745.27,420.70 q-39.96,-59.02 19.07,-98.97 l39.96,59.02Z"/></g></g></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="824.83,381.34 824.83,67.10 812.83,67.10 812.83,374.97 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="366.59,675.10 366.59,465.66 354.59,465.66 354.59,675.10 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="366.59,567.90 366.59,486.07 354.59,486.07 354.59,567.90 "/><g id="Threshold" class="Threshold"><polygon points="366.59,567.90 366.59,486.07 354.59,486.07 354.59,567.90 "/></g><g id="Panel" fill="none" style="" class="Panel Left Negative"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="366.59,567.90 366.59,486.07 354.59,486.07 354.59,567.90 "/></g><path d="M366.59,567.90 q81.83,0.00 81.83,-81.83 l-81.83,0.00Z"/></g></g></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="488.30,1039.95 488.30,663.10 476.30,663.10 476.30,1039.95 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1072.00,1100.93 1072.00,736.71 1060.00,724.71 1060.00,1100.93 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1060.00,724.71 1134.25,724.71 1134.25,736.71 1072.00,736.71 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1315.83,711.58 1315.83,638.74 1327.83,650.74 1327.83,711.58 "/></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="2033.71,441.94 2033.71,126.85 2002.71,157.85 2002.71,429.94 "/><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="2033.71,418.89 2033.71,369.99 2002.71,369.99 2002.71,418.89 "/><g id="Glass" class="Glass"><polygon points="2033.71,418.89 2033.71,369.99 2002.71,369.99 2002.71,418.89 "/></g><g id="Panel" class="Panel"><line x1="2018.2099609375" x2="2018.2099609375" y1="411.3900146484375" y2="377.489990234375"/><line x1="2033.7099609375" x2="2002.7099609375" y1="411.3900146484375" y2="411.3900146484375"/><line x1="2033.7099609375" x2="2002.7099609375" y1="377.489990234375" y2="377.489990234375"/></g></g></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1566.70,126.85 1566.70,441.94 1578.94,441.94 1578.94,157.85 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="1566.70,339.89 1566.70,420.72 1578.94,420.72 1578.94,339.89 "/><g id="Threshold" class="Threshold"><polygon points="1566.70,339.89 1566.70,420.72 1578.94,420.72 1578.94,339.89 "/></g><g id="Panel" fill="none" style="" class="Panel Left Positive"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="1566.70,339.89 1566.70,420.72 1578.94,420.72 1578.94,339.89 "/></g><path d="M1578.94,420.72 q80.83,0.00 80.83,-80.83 l-80.83,0.00Z"/></g></g></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="2033.71,1100.93 2033.71,638.74 2002.71,638.74 2002.71,1069.93 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="2033.71,1013.39 2033.71,932.08 2002.71,932.08 2002.71,1013.39 "/><g id="Threshold" class="Threshold"><polygon points="2033.71,1013.39 2033.71,932.08 2002.71,932.08 2002.71,1013.39 "/></g><g id="Panel" fill="none" style="" class="Panel Right Negative"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="2033.71,1013.39 2033.71,932.08 2002.71,932.08 2002.71,1013.39 "/></g><path d="M2033.71,932.08 q81.31,0.00 81.31,81.31 l-81.31,0.00Z"/></g></g><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="2033.71,862.61 2033.71,782.87 2002.71,782.87 2002.71,862.61 "/><g id="Threshold" class="Threshold"><polygon points="2033.71,862.61 2033.71,782.87 2002.71,782.87 2002.71,862.61 "/></g><g id="Panel" fill="none" style="" class="Panel Right Negative"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="2033.71,862.61 2033.71,782.87 2002.71,782.87 2002.71,862.61 "/></g><path d="M2033.71,782.87 q79.74,0.00 79.74,79.74 l-79.74,0.00Z"/></g></g></g><g id="Wall" class="Wall External" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="2033.71,638.74 2033.71,441.94 1997.98,441.94 1997.98,638.74 "/><g id="Window" fill="#f0f0ff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Window Regular"><polygon points="2033.71,609.96 2033.71,556.95 1997.98,556.95 1997.98,609.96 "/><g id="Glass" class="Glass"><polygon points="2033.71,609.96 2033.71,556.95 1997.98,556.95 1997.98,609.96 "/></g><g id="Panel" class="Panel"><line x1="2015.844970703125" x2="2015.844970703125" y1="602.4600219726562" y2="564.4500122070312"/><line x1="2033.7099609375" x2="1997.97998046875" y1="602.4600219726562" y2="602.4600219726562"/><line x1="2033.7099609375" x2="1997.97998046875" y1="564.4500122070312" y2="564.4500122070312"/></g></g></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1566.70,429.94 1566.70,638.74 1588.62,555.36 1588.62,445.62 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1566.70,638.74 1566.70,1100.93 1578.94,1100.93 1578.94,638.74 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="1566.70,764.21 1566.70,846.66 1578.94,846.66 1578.94,764.21 "/><g id="Threshold" class="Threshold"><polygon points="1566.70,764.21 1566.70,846.66 1578.94,846.66 1578.94,764.21 "/></g><g id="Panel" fill="none" style="" class="Panel Left Positive"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="1566.70,764.21 1566.70,846.66 1578.94,846.66 1578.94,764.21 "/></g><path d="M1578.94,846.66 q82.45,0.00 82.45,-82.45 l-82.45,0.00Z"/></g></g></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1315.83,638.74 1798.82,638.74 1814.51,650.74 1327.83,650.74 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1814.51,638.74 2033.71,638.74 2033.71,650.74 1814.51,650.74 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="1821.74,638.74 1905.53,638.74 1905.53,650.74 1821.74,650.74 "/><g id="Threshold" class="Threshold"><polygon points="1821.74,638.74 1905.53,638.74 1905.53,650.74 1821.74,650.74 "/></g><g id="Panel" fill="none" style="" class="Panel Left Positive"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="1821.74,638.74 1905.53,638.74 1905.53,650.74 1821.74,650.74 "/></g><path d="M1905.53,650.74 q0.00,83.79 -83.79,83.79 l0.00,-83.79Z"/></g></g></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1588.62,445.62 1798.82,445.62 1814.51,429.94 1566.70,429.94 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1802.51,441.94 2033.71,441.94 2002.71,429.94 1802.51,429.94 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1814.51,650.74 1814.51,429.94 1798.82,445.62 1798.82,638.74 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="1814.51,626.25 1814.51,541.90 1798.82,541.90 1798.82,626.25 "/><g id="Threshold" class="Threshold"><polygon points="1814.51,626.25 1814.51,541.90 1798.82,541.90 1798.82,626.25 "/></g><g id="Panel" fill="none" style="" class="Panel Right Negative"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="1814.51,626.25 1814.51,541.90 1798.82,541.90 1798.82,626.25 "/></g><path d="M1814.51,541.90 q84.35,0.00 84.35,84.35 l-84.35,0.00Z"/></g></g></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1881.08,1100.93 1881.08,898.52 1869.08,886.52 1869.08,1100.93 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1881.08,898.52 2033.71,898.52 2033.71,886.52 1869.08,886.52 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1566.70,751.93 1773.31,751.93 1761.31,739.93 1566.70,739.93 "/><g id="Door" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-width: 1; stroke-opacity: 1;" class="Door Swing Beside"><polygon points="1666.51,751.93 1746.62,751.93 1746.62,739.93 1666.51,739.93 "/><g id="Threshold" class="Threshold"><polygon points="1666.51,751.93 1746.62,751.93 1746.62,739.93 1666.51,739.93 "/></g><g id="Panel" fill="none" style="" class="Panel Right Negative"><g id="PanelArea" fill="none" stroke="none" style="" class="PanelArea"><polygon points="1666.51,751.93 1746.62,751.93 1746.62,739.93 1666.51,739.93 "/></g><path d="M1746.62,751.93 q0.00,80.11 -80.11,80.11 l0.00,-80.11Z"/></g></g></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1773.31,751.93 1773.31,638.74 1761.31,638.74 1761.31,739.93 "/></g><g id="Wall" class="Wall" fill="#000000" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;"><polygon points="1566.70,638.74 1629.04,638.74 1629.04,555.36 1588.62,555.36 "/></g><g id="Column" class="Column Rectangle" fill="#000000" stroke="none" style="fill-opacity: 1;"><polygon points="786.46,1188.64 798.21,1188.64 798.21,1177.88 786.46,1177.88 "/></g><g id="Column" class="Column Rectangle" fill="#000000" stroke="none" style="fill-opacity: 1;"><polygon points="785.96,1302.15 797.71,1302.15 797.71,1291.39 785.96,1291.39 "/></g><g id="Column" class="Column Rectangle" fill="#000000" stroke="none" style="fill-opacity: 1;"><polygon points="1048.30,1187.59 1060.05,1187.59 1060.05,1176.83 1048.30,1176.83 "/></g><g id="Column" class="Column Rectangle" fill="#000000" stroke="none" style="fill-opacity: 1;"><polygon points="2113.07,772.34 2124.03,772.34 2124.03,761.80 2113.07,761.80 "/></g><g id="Column" class="Column Rectangle" fill="#000000" stroke="none" style="fill-opacity: 1;"><polygon points="2112.96,1033.06 2123.92,1033.06 2123.92,1022.52 2112.96,1022.52 "/></g><g id="FixedFurnitureSet" transform="matrix(1,0,0,1,1453.5803,650.738)" class="FixedFurnitureSet" style=""><g class="FixedFurniture Closet" fill="#ffffff" stroke="#000000" transform="matrix(1,0,0,1,0,0)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 56.56,0.00 56.56,60.00 0.00,60.00 "/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="29.70,54.70 29.70,44.08 26.69,44.08 26.69,54.70 22.89,54.70 28.19,60.00 33.50,54.70 29.70,54.70 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CL</text>
+        </g>
+        <desc>Width:60 Height:200 Depth:60 Elevation:0</desc>
+    </g><g class="FixedFurniture Closet" fill="#ffffff" stroke="#000000" transform="matrix(1,0,0,1,56.5627,0)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 56.56,0.00 56.56,60.00 0.00,60.00 "/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="29.70,54.70 29.70,44.08 26.69,44.08 26.69,54.70 22.89,54.70 28.19,60.00 33.50,54.70 29.70,54.70 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CL</text>
+        </g>
+        <desc>Width:60 Height:200 Depth:60 Elevation:0</desc>
+     </g></g><g id="FixedFurnitureSet" transform="matrix(0,-1,1,0,1578.9598,976.2122)" class="FixedFurnitureSet" style=""><g class="FixedFurniture ElectricalAppliance WashingMachine" fill="#ffffff" stroke="#000000" transform="matrix(0.9627,0,0,1,0,0)" style="fill-opacity: 1; stroke-opacity: 1;">
+	   <g class="BoundaryPolygon"> 
+		    <polygon points="0,0 60,0 60,60 0,60"/>
+		</g>	
+	    <g class="electricitySign" fill="none">
+            <path d="M0,0,30,41V20.8L60,60"/>
+		</g>
+	    <g class="Handle"> 
+		    <path d="M2.7,59.4H57.3"/>
+		</g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="32.009 55.197 32.009 44.581 29 44.581 29 55.197 25.197 55.197 30.5 60 35.803 55.197 32.009 55.197" fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(10 12)" font-size="12" font-family="Verdana, Sans-Serif">WM</text>
+        </g>
+        <desc>Width:60 Height:90 Depth:60 Elevation:0</desc>
+    </g><g class="FixedFurniture ElectricalAppliance TumbleDryer" fill="#ffffff" stroke="#000000" transform="matrix(0.9627,0,0,1,0,0)" style="fill-opacity: 1; stroke-opacity: 1;">
+	   <g class="BoundaryPolygon"> 
+		    <polygon points="0,0 60,0 60,60 0,60"/>
+        </g>
+	    <g class="electricitySign" fill="none">
+            <path d="M.5.5l30,40.832V20.866L60.5,60.4"/>
+		</g>
+	    <g class="Handle"> 
+		    <rect x="5.8" y="58.803" width="49.4" height="1.697"/>
+		</g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="32.009 55.197 32.009 44.581 29 44.581 29 55.197 25.197 55.197 30.5 60 35.803 55.197 32.009 55.197" fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(35 12)" font-size="12" font-family="Verdana, Sans-Serif">DR</text>
+        </g>
+        <desc>Width:60 Height:90 Depth:60 Elevation:0</desc>
+	</g></g><g id="FixedFurnitureSet" transform="matrix(1,0,0,1,1929.6638,650.7381)" class="FixedFurnitureSet" style=""><g class="FixedFurniture BaseCabinet" fill="#ffffff" stroke="#000000" transform="matrix(1,0,0,1,0,0)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 56.61,0.00 56.61,39.68 0.00,39.68 "/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="30.20,36.51 30.20,25.89 27.19,25.89 27.19,36.51 23.39,36.51 28.69,41.31 34.00,36.51 30.20,36.51 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CB</text>
+        </g>
+        <desc>Width:60 Height:5 Depth:60 Elevation:105</desc>
+    </g><g class="FixedFurniture Sink" fill="#ffffff" stroke="#000000" transform="matrix(1,0,0,1,0,0)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon" fill="none" stroke="none">
+        <polygon points="0.00,0.00 56.61,0.00 56.61,39.68 0.00,39.68 "/>
+        </g>
+        <g class="InnerPolygon">
+            <polygon points="4.72,9.70 51.90,9.70 51.90,36.18 4.72,36.18 "/>
+        </g>
+        <g class="OuterDrain" stroke-width="0.8">
+            <circle cx="28.306899411183" cy="21.29643220801851" r="3.5"/>
+        </g>
+        <g class="InnerDrain" stroke-width="0.8">
+            <circle cx="28.306899411183" cy="21.29643220801851" r="2"/>
+        </g>
+        <g class="Faucet">
+            <polygon points="25.48,3.31 31.48,3.31 31.48,17.31 25.48,17.31 "/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="30.20,36.51 30.20,25.89 27.19,25.89 27.19,36.51 23.39,36.51 28.69,41.31 34.00,36.51 30.20,36.51 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">SINK</text>
+        </g>
+        <desc>Width:60 Height:90 Depth:60 Elevation:0</desc>
+    </g></g><g class="FixedFurniture BaseCabinetTriangle" fill="#ffffff" stroke="#000000" transform="matrix(1.4569,0,0,1.4132,155.5382,477.6618)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon" fill="none" stroke="none">
+            <polygon points=" 0,0 60,0 60,60 0,60"/>
+        </g>
+        <g class="InnerPolygon">
+            <polygon points="0,60 0,0 60,0"/>
+        </g>
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CB</text>
+        </g>
+        <desc>Width:60 Height:90 Depth:60 Elevation:0</desc>
+    </g><g class="FixedFurniture RoundSink" fill="#ffffff" stroke="#000000" transform="matrix(0.7193,-0.6947,0.585,0.6058,149.1103,503.9156)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon" fill="none" stroke="none">
+            <polygon points="0,0 46,0 46,50 0,50"/>
+        </g>
+        <g class="InnerPolygon">
+            <circle cx="23" cy="27" r="23"/>
+        </g>
+        <g class="OuterDrain">
+            <circle cx="23" cy="27" r="3.5"/>
+        </g>
+        <g class="InnerDrain">
+            <circle cx="23" cy="27" r="2"/>
+        </g>
+        <g class="Faucet">
+            <polygon points="20 0 26 0 26 14 20 14 20 0"/>
+        </g>
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(6.5 24.5)" font-size="12" font-family="Verdana, Sans-Serif">SINK</text>
+        </g>
+        <desc>Width:46 Height:90 Depth:50 Elevation:60</desc>
+    </g><g class="FixedFurniture Toilet" fill="#ffffff" stroke="#000000" transform="matrix(-0.6561,-0.7547,0.7547,-0.6561,182.4383,663.0974)" style="fill-opacity: 1; stroke-opacity: 1;">
+	   <g class="BoundaryPolygon" fill="none" stroke="none"> 
+            <polygon points="0,0 41,0 41,71 0,71"/>
+		</g>
+        <g class="InnerPolygon">
+            <rect x="0.502" y="0.5" width="39.989" height="17.98"/>
+            <path d="M40.491,44.237S41.619,70.5,20.907,70.5C-.523,70.5.6,44.237.6,44.237L.5,18.48H40.491Z"/>
+            <rect x="17.318" y="7.975" width="6.357" height="3.03"/>
+        </g>
+        <desc>Width:41 Height:85 Depth:71 Elevation:0</desc>
+    </g><g class="FixedFurniture ClosetTriangle" fill="#ffffff" stroke="#000000" transform="matrix(-1.1297,0,0,-1.1171,354.5916,663.0973)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon" fill="none" stroke="none">
+            <polygon points=" 0,0 60,0 60,60 0,60"/>
+        </g>
+        <g class="InnerPolygon">
+            <polygon points="0,60 0,0 60,0"/>
+        </g>
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CL</text>
+        </g>
+        <desc>Width:60 Height:200 Depth:60 Elevation:0</desc>
+    </g><g class="FixedFurniture CoatCloset" fill="#ffffff" stroke="#000000" transform="matrix(0,1,-1,0,1059.8447,949.0891)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 120.84,0.00 120.84,60.00 0.00,60.00 "/>
+        </g>
+        <g class="Hanger" fill="#ffffff" stroke="#9a9a9a" stroke-dasharray="5,5">
+            <line x1="0" y1="30" x2="120.83586498988127" y2="30"/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="61.94,54.52 61.94,43.90 58.93,43.90 58.93,54.52 55.13,54.52 60.43,59.82 65.73,54.52 61.94,54.52 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CWH</text>
+        </g>
+        <desc>Width:120 Height:200 Depth:60 Elevation:0</desc>
+     </g><g class="FixedFurniture Closet" fill="#ffffff" stroke="#000000" transform="matrix(0,1,-1,0,1059.8447,889.089)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0,0 60,0 60,60 0,60"/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="31.509 54.697 31.509 44.081 28.5 44.081 28.5 54.697 24.697 54.697 30 60 35.303 54.697 31.509 54.697" fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CL</text>
+        </g>
+        <desc>Width:60 Height:200 Depth:60 Elevation:0</desc>
+     </g><g class="FixedFurniture CoatCloset" fill="#ffffff" stroke="#000000" transform="matrix(0,1,-1,0,1059.8447,726.0391)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 163.05,0.00 163.05,60.00 0.00,60.00 "/>
+        </g>
+        <g class="Hanger" fill="#ffffff" stroke="#9a9a9a" stroke-dasharray="5,5">
+            <line x1="0" y1="30" x2="163.0470469788867" y2="30"/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="83.57,54.52 83.57,43.90 80.56,43.90 80.56,54.52 76.76,54.52 82.06,59.82 87.37,54.52 83.57,54.52 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CWH</text>
+        </g>
+        <desc>Width:120 Height:200 Depth:60 Elevation:0</desc>
+     </g><g class="FixedFurniture ElectricalAppliance Refrigerator" fill="#ffffff" stroke="#000000" transform="matrix(1.0286,0,0,1,1327.8306,650.8005)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0,0 60,0 60,60 0,60"/>
+        </g>
+        <g class="electricitySign" fill="none">
+            <path d="M0,0,30,37.1v-18L60,56.3"/>
+        </g>
+        <g class="Doors">
+            <rect y="56" width="60" height="4"/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="32.009 55.197 32.009 44.581 29 44.581 29 55.197 25.197 55.197 30.5 60 35.803 55.197 32.009 55.197" fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">REF</text>
+        </g>
+        <desc>Width:60 Height:170 Depth:60 Elevation:0</desc>
+    </g><g class="FixedFurniture ElectricalAppliance Refrigerator" fill="#ffffff" stroke="#000000" transform="matrix(1.063,0,0,1,1389.5492,650.8474)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0,0 60,0 60,60 0,60"/>
+        </g>
+        <g class="electricitySign" fill="none">
+            <path d="M0,0,30,37.1v-18L60,56.3"/>
+        </g>
+        <g class="Doors">
+            <rect y="56" width="60" height="4"/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="32.009 55.197 32.009 44.581 29 44.581 29 55.197 25.197 55.197 30.5 60 35.803 55.197 32.009 55.197" fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">REF</text>
+        </g>
+        <desc>Width:60 Height:170 Depth:60 Elevation:0</desc>
+    </g><g transform="matrix(1,0,0,1,1072.0029,736.539)" class="FixedFurniture BaseCabinet" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1;"><desc>Width:60 Height:90 Depth:60 Elevation:0</desc><g class="BoundaryPolygon"><polygon points="0.00,0.00 60.00,0.00 60.00,273.85 433.91,273.85 433.91,121.29 494.12,121.29 494.70,333.39 -0.00,333.15 0.00,0.00 "/></g></g><g class="FixedFurniture ElectricalAppliance SpaceForAppliance2" fill="#ffffff" stroke="#000000" stroke-dasharray="4,4" transform="matrix(0,-1,1,0,1072.0967,838.0717)" style="fill-opacity: 1; stroke-opacity: 1;">
+	    <g class="BoundaryPolygon"> 
+		    <polygon points="0,0 60,0 60,60 0,60"/>
+		</g>	
+	    <g class="electricitySign" fill="none">
+            <path d="M0,0,30.1,39.8V19.4L59.9,60"/>
+		</g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="32.009 55.197 32.009 44.581 29 44.581 29 55.197 25.197 55.197 30.5 60 35.803 55.197 32.009 55.197" fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" stroke-dasharray="none" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">SFA</text>
+        </g>
+        <desc>Width:60 Height:90 Depth:60 Elevation:0</desc>
+	</g><g class="FixedFurniture DoubleSinkRight" fill="#ffffff" stroke="#000000" transform="matrix(0,-1,1,0,1076.3006,900.24)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon" fill="none" stroke="none">
+            <polygon points="0.00,0.00 59.71,0.00 59.71,53.66 0.00,53.66 0.00,0.00 "/>
+        </g>
+        <g class="InnerPolygonLeft">
+            <polygon points="4.27,9.90 21.33,9.90 21.33,49.10 4.27,49.10 "/>
+        </g>
+        <g class="InnerPolygonRight">
+            <polygon points="23.88,10.00 55.45,10.00 55.45,49.19 23.88,49.19 "/>
+        </g>
+        <g class="OuterDrain" stroke-width="0.8">
+            <circle cx="12.795429642755384" cy="29.066911970277754" r="3.5"/>
+            <circle cx="39.23931757111651" cy="29.066911970277754" r="3.5"/>
+        </g>
+        <g class="InnerDrain" stroke-width="0.8">
+            <circle cx="12.795429642755384" cy="29.066911970277754" r="2"/>
+            <circle cx="39.23931757111651" cy="29.066911970277754" r="2"/>
+        </g>
+        <g class="Faucet">
+            <polygon points="27.30,4.38 33.30,4.38 33.30,18.38 27.30,18.38 "/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="31.14,48.92 31.14,38.30 28.13,38.30 28.13,48.92 24.33,48.92 29.63,54.22 34.94,48.92 31.14,48.92 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">DSINK</text>
+        </g>
+        <desc>Width:70 Height:90 Depth:60 Elevation:0</desc>
+    </g><g class="FixedFurniture ElectricalAppliance IntegratedStove" fill="#ffffff" stroke="#000000" transform="matrix(0,-1,1,0,1070.1531,980.5788)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon" fill="none" stroke="none">
+            <polygon points="0.00,0.00 62.58,0.00 62.58,63.58 0.00,63.58 "/>
+        </g>
+        <g class="InnerPolygon">
+            <polygon points="2.00,2.00 60.50,2.00 60.50,61.46 2.00,61.46 "/>
+        </g>
+        <g class="OuterCircle">
+            <circle cx="16.689323136738576" cy="16.955653920565297" r="8"/>
+            <circle cx="45.8956386260311" cy="16.955653920565297" r="8"/>
+            <circle cx="16.689323136738576" cy="46.628048281554555" r="8"/>
+            <circle cx="45.8956386260311" cy="46.628048281554555" r="8"/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="33.39,58.49 33.39,47.88 30.38,47.88 30.38,58.49 26.58,58.49 31.88,63.30 37.18,58.49 33.39,58.49 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">INT_STOVE</text>
+        </g>
+        <desc>Width:60 Height:90 Depth:30 Elevation:0</desc>
+    </g><g class="FixedFurniture Closet" fill="#ffffff" stroke="#000000" transform="matrix(0,-1,1,0,1579.0691,917.9688)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0,0 60,0 60,60 0,60"/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="31.509 54.697 31.509 44.081 28.5 44.081 28.5 54.697 24.697 54.697 30 60 35.303 54.697 31.509 54.697" fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CL</text>
+        </g>
+        <desc>Width:60 Height:200 Depth:60 Elevation:0</desc>
+     </g><g transform="matrix(1,0,0,1,1578.9598,1069.929)" class="FixedFurniture BaseCabinet" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1;"><desc>Width:60 Height:90 Depth:60 Elevation:0</desc><g class="BoundaryPolygon"><polygon points="0.00,0.00 290.12,0.00 290.12,-61.10 60.52,-61.10 60.52,-93.72 0.00,-93.72 0.00,0.00 "/></g></g><g class="FixedFurniture WallCabinet" fill="#ffffff" stroke="#000000" transform="matrix(0,-1,1,0,1579.0848,1070.029)" style="fill-opacity: 0.7; stroke-opacity: 1;">	
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 93.82,0.00 93.82,30.00 0.00,30.00 "/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="50.05,25.20 50.05,14.58 47.04,14.58 47.04,25.20 43.24,25.20 48.54,30.00 53.84,25.20 50.05,25.20 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">UC</text>
+        </g>
+        <desc>Width:60 Height:60 Depth:30 Elevation:140</desc>
+    </g><g class="FixedFurniture BaseCabinetTriangle" fill="#ffffff" stroke="#000000" transform="matrix(0,1,-0.9879,0,1761.3113,650.738)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon" fill="none" stroke="none">
+            <polygon points=" 0,0 60,0 60,60 0,60"/>
+        </g>
+        <g class="InnerPolygon">
+            <polygon points="0,60 0,0 60,0"/>
+        </g>
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CB</text>
+        </g>
+        <desc>Width:60 Height:90 Depth:60 Elevation:0</desc>
+    </g><g class="FixedFurniture RoundSink" fill="#ffffff" stroke="#000000" transform="matrix(0.6539,0.6098,-0.3795,0.407,1736.7089,645.6435)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon" fill="none" stroke="none">
+            <polygon points="0,0 46,0 46,50 0,50"/>
+        </g>
+        <g class="InnerPolygon">
+            <circle cx="23" cy="27" r="23"/>
+        </g>
+        <g class="OuterDrain">
+            <circle cx="23" cy="27" r="3.5"/>
+        </g>
+        <g class="InnerDrain">
+            <circle cx="23" cy="27" r="2"/>
+        </g>
+        <g class="Faucet">
+            <polygon points="20 0 26 0 26 14 20 14 20 0"/>
+        </g>
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(6.5 24.5)" font-size="12" font-family="Verdana, Sans-Serif">SINK</text>
+        </g>
+        <desc>Width:46 Height:90 Depth:50 Elevation:60</desc>
+    </g><g class="FixedFurniture Toilet" fill="#ffffff" stroke="#000000" transform="matrix(0,-1,1,0,1578.9441,715.5865)" style="fill-opacity: 1; stroke-opacity: 1;">
+	   <g class="BoundaryPolygon" fill="none" stroke="none"> 
+            <polygon points="0,0 41,0 41,71 0,71"/>
+		</g>
+        <g class="InnerPolygon">
+            <rect x="0.502" y="0.5" width="39.989" height="17.98"/>
+            <path d="M40.491,44.237S41.619,70.5,20.907,70.5C-.523,70.5.6,44.237.6,44.237L.5,18.48H40.491Z"/>
+            <rect x="17.318" y="7.975" width="6.357" height="3.03"/>
+        </g>
+        <desc>Width:41 Height:85 Depth:71 Elevation:0</desc>
+    </g><g class="FixedFurniture SaunaBenchHigh" fill="#ffffff" stroke="#000000" transform="matrix(1,0,0,1,1588.6161,445.7767)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 210.07,0.00 210.07,56.29 0.00,56.29 "/> 
+        </g>
+        <g class="Bench" stroke="#9a9a9a" stroke-width="0.5">
+            <line x1="0" y1="3.7529947474126084" x2="210.07441016255794" y2="3.7529947474126084"/>
+            <line x1="0" y1="7.505989494825217" x2="210.07441016255794" y2="7.505989494825217"/>
+            <line x1="0" y1="11.258984242237824" x2="210.07441016255794" y2="11.258984242237824"/>
+            <line x1="0" y1="15.011978989650434" x2="210.07441016255794" y2="15.011978989650434"/>
+            <line x1="0" y1="18.764973737063045" x2="210.07441016255794" y2="18.764973737063045"/>
+            <line x1="0" y1="22.51796848447565" x2="210.07441016255794" y2="22.51796848447565"/>
+            <line x1="0" y1="26.27096323188826" x2="210.07441016255794" y2="26.27096323188826"/>
+            <line x1="0" y1="30.023957979300867" x2="210.07441016255794" y2="30.023957979300867"/>
+            <line x1="0" y1="33.77695272671349" x2="210.07441016255794" y2="33.77695272671349"/>
+            <line x1="0" y1="37.52994747412609" x2="210.07441016255794" y2="37.52994747412609"/>
+            <line x1="0" y1="41.28294222153869" x2="210.07441016255794" y2="41.28294222153869"/>
+            <line x1="0" y1="45.0359369689513" x2="210.07441016255794" y2="45.0359369689513"/>
+            <line x1="0" y1="48.78893171636391" x2="210.07441016255794" y2="48.78893171636391"/>
+            <line x1="0" y1="52.54192646377652" x2="210.07441016255794" y2="52.54192646377652"/>
+        </g>
+         <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="108.34,51.28 108.34,40.66 105.33,40.66 105.33,51.28 101.53,51.28 106.83,56.58 112.13,51.28 108.34,51.28 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">SB_HIGH</text>
+        </g>
+        <desc>Width:185 Height:5 Depth:60 Elevation:105</desc>
+    </g><g class="FixedFurniture SaunaBenchMid" fill="#ffffff" stroke="#000000" transform="matrix(1,0,0,1,1588.6161,502.2279)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 210.07,0.00 210.07,40.00 0.00,40.00 "/>
+        </g>
+        <g class="Bench" stroke="#9a9a9a" stroke-width="0.5">
+            <line x1="0" y1="4" x2="210.07441016255774" y2="4"/>
+            <line x1="0" y1="8" x2="210.07441016255774" y2="8"/>
+            <line x1="0" y1="12" x2="210.07441016255774" y2="12"/>
+            <line x1="0" y1="16" x2="210.07441016255774" y2="16"/>
+            <line x1="0" y1="20" x2="210.07441016255774" y2="20"/>
+            <line x1="0" y1="24" x2="210.07441016255774" y2="24"/>
+            <line x1="0" y1="28" x2="210.07441016255774" y2="28"/>
+            <line x1="0" y1="32" x2="210.07441016255774" y2="32"/>
+            <line x1="0" y1="36" x2="210.07441016255774" y2="36"/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="106.75,34.66 106.75,24.04 103.74,24.04 103.74,34.66 99.94,34.66 105.24,39.96 110.54,34.66 106.75,34.66 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">SB_MID</text>
+        </g>
+        <desc>Width:185 Height:5 Depth:40 Elevation:60</desc>
+    </g><g class="FixedFurniture SaunaBenchLow" fill="#ffffff" stroke="#000000" transform="matrix(1,0,0,1,1704.7289,542.3841)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 89.14,0.00 89.14,19.65 0.00,19.65 "/>
+        </g>
+        <g class="Bench" stroke="#9a9a9a" stroke-width="0.5">
+            <line x1="0" y1="1.9648497184676939" x2="89.14286747274627" y2="1.9648497184676939"/>
+            <line x1="0" y1="3.9296994369353877" x2="89.14286747274627" y2="3.9296994369353877"/>
+            <line x1="0" y1="5.894549155403082" x2="89.14286747274627" y2="5.894549155403082"/>
+            <line x1="0" y1="7.859398873870775" x2="89.14286747274627" y2="7.859398873870775"/>
+            <line x1="0" y1="9.824248592338476" x2="89.14286747274627" y2="9.824248592338476"/>
+            <line x1="0" y1="11.789098310806164" x2="89.14286747274627" y2="11.789098310806164"/>
+            <line x1="0" y1="13.753948029273861" x2="89.14286747274627" y2="13.753948029273861"/>
+            <line x1="0" y1="15.71879774774155" x2="89.14286747274627" y2="15.71879774774155"/>
+            <line x1="0" y1="17.683647466209244" x2="89.14286747274627" y2="17.683647466209244"/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="46.10,17.02 46.10,6.41 43.09,6.41 43.09,17.02 39.29,17.02 44.59,22.33 49.89,17.02 46.10,17.02 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">SB_LOW</text>
+        </g>
+        <desc>Width:91 Height:5 Depth:40 Elevation:30</desc>
+    </g><g class="FixedFurniture ElectricalAppliance SaunaStove" fill="#ffffff" stroke="#000000" transform="matrix(0,-0.8401,1.4511,0,1629.1918,629.6176)" style="fill-opacity: 1; stroke-opacity: 1;"> 
+	   <g class="BoundaryPolygon"> 
+		    <polygon points="0,0 60,0 60,35 0,35"/>
+		</g>
+	    <g class="electricitySign" fill="none">
+		    <polyline points="0 35 39.7 17.5 21.4 17.5 60 0"/>
+		</g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="31.509 29.697 31.509 19.081 28.5 19.081 28.5 29.697 24.697 29.697 30 35 35.303 29.697 31.509 29.697" fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">SS</text>
+        </g>
+        <desc>Width:60 Height:60 Depth:35 Elevation:20</desc>
+	</g><g class="FixedFurniture Shower" fill="#ffffff" stroke="#000000" transform="matrix(1,0,0,1,1847.1645,441.9359)" style="fill-opacity: 1; stroke-opacity: 1;"> 
+	    <g class="BoundaryPolygon" fill="none" stroke="none">
+            <polygon points="0,0 32,0 32,19 0,19"/>
+        </g>
+        <g class="InnerPolygon"> 
+			<rect x="3.7" y="0.5" width="11.2" height="6.1"/>
+			<rect x="17.6" y="0.5" width="11.2" height="6.1"/>
+			<rect x="28.7" y="0.5" width="3.4" height="6.1"/>
+			<rect x="0.5" y="0.5" width="3.2" height="6.1"/>
+			<path d="M14.9,8.5c0,1.5-0.4,3.3-1.6,5    c-0.4,0.6-1,1.1-1.1,1.7c-0.2,1.1,0.3,2.8,2.5,3.2c0.5,0.1,1.3,0.1,1.6,0.1h-0.1c0.3,0,1.1,0,1.6-0.1c2.2-0.4,2.7-2.1,2.5-3.2    c-0.1-0.6-0.7-1.1-1.1-1.7c-1.2-1.7-1.6-3.5-1.6-5"/>
+			<path d="M12.2,15.3c0.1,0.2,1.6,1.9,4.2,1.9 c2.4-0.1,3.7-1.7,3.9-1.9"/>
+			<path d="M14.9,0.5h2.7v8c-0.9,0-1.8,0-2.7,0l0,0 C14.9,5.9,14.9,3.2,14.9,0.5z"/>
+		</g>
+	    <g class="Indicator"> 
+			<path d="M3.7,3.6C5,3.1,5.2,3,5.2,3 c0,1.1,0,0,0,1.1C5.2,4.1,5.1,4.1,3.7,3.6"/>
+			<path d="M28.7,3.6 C27.4,3.1,27.2,3,27.2,3c0,1.1,0,0,0,1.1C27.2,4.1,27.3,4.1,28.7,3.6"/>	
+		</g>
+        <desc>Width:32 Height:97 Depth:19 Elevation:135</desc>
+	</g><g class="FixedFurniture Shower" fill="#ffffff" stroke="#000000" transform="matrix(1,0,0,1,1937.6325,441.9359)" style="fill-opacity: 1; stroke-opacity: 1;"> 
+	    <g class="BoundaryPolygon" fill="none" stroke="none">
+            <polygon points="0,0 32,0 32,19 0,19"/>
+        </g>
+        <g class="InnerPolygon"> 
+			<rect x="3.7" y="0.5" width="11.2" height="6.1"/>
+			<rect x="17.6" y="0.5" width="11.2" height="6.1"/>
+			<rect x="28.7" y="0.5" width="3.4" height="6.1"/>
+			<rect x="0.5" y="0.5" width="3.2" height="6.1"/>
+			<path d="M14.9,8.5c0,1.5-0.4,3.3-1.6,5    c-0.4,0.6-1,1.1-1.1,1.7c-0.2,1.1,0.3,2.8,2.5,3.2c0.5,0.1,1.3,0.1,1.6,0.1h-0.1c0.3,0,1.1,0,1.6-0.1c2.2-0.4,2.7-2.1,2.5-3.2    c-0.1-0.6-0.7-1.1-1.1-1.7c-1.2-1.7-1.6-3.5-1.6-5"/>
+			<path d="M12.2,15.3c0.1,0.2,1.6,1.9,4.2,1.9 c2.4-0.1,3.7-1.7,3.9-1.9"/>
+			<path d="M14.9,0.5h2.7v8c-0.9,0-1.8,0-2.7,0l0,0 C14.9,5.9,14.9,3.2,14.9,0.5z"/>
+		</g>
+	    <g class="Indicator"> 
+			<path d="M3.7,3.6C5,3.1,5.2,3,5.2,3 c0,1.1,0,0,0,1.1C5.2,4.1,5.1,4.1,3.7,3.6"/>
+			<path d="M28.7,3.6 C27.4,3.1,27.2,3,27.2,3c0,1.1,0,0,0,1.1C27.2,4.1,27.3,4.1,28.7,3.6"/>	
+		</g>
+        <desc>Width:32 Height:97 Depth:19 Elevation:135</desc>
+	</g><g class="FixedFurniture FireplaceCorner" fill="#ffffff" stroke="#000000" transform="matrix(0,1.2148,-1.1636,0,1566.6666,547.0207)" style="fill-opacity: 1; stroke-opacity: 1;"> 
+	   <g class="BoundaryPolygon" fill="none" stroke="none"> 
+		    <polygon points="0,0 75,0 75,75, 0,75"/> 
+		</g>
+	    <g class="OverlayPolygon">
+		    <polygon points="33.933 75.5 75.5 75.5 75.5 0.5 0.5 0.5 0.5 41.735 33.933 75.5"/>  
+		</g>
+	    <g class="Lines" fill="none" stroke="#4c4c4c"> 
+		  <line x1="41.978" y1="0.5" x2="75.5" y2="34.026"/>
+            <line x1="9.726" y1="0.5" x2="75.5" y2="66.237"/>
+            <line x1="0.5" y1="8.611" x2="67.386" y2="75.5"/>
+            <line x1="26.284" y1="0.5" x2="75.183" y2="49.404"/>
+            <line x1="0.5" y1="25.759" x2="50.143" y2="75.4"/>
+            <line x1="59.944" y1="0.5" x2="75.5" y2="16.058"/>
+		</g>
+	    <g class="FireBox">	
+		    <polygon points="0.739 41.989 34.215 8.38 67.304 41.602 33.829 75.21 0.739 41.989"/>
+	    </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="35.459 70.197 35.459 59.581 32.45 59.581 32.45 70.197 28.647 70.197 33.95 75.5 39.253 70.197 35.459 70.197" fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">FP</text>
+        </g>
+         <desc>Width:75 Height:120 Depth:75 Elevation:0</desc>
+    </g><g class="FixedFurniture Closet" fill="#ffffff" stroke="#000000" transform="matrix(0,-1,1,0,1881.0766,948.6478)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 50.13,0.00 50.13,60.00 0.00,60.00 "/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="26.33,54.70 26.33,44.08 23.32,44.08 23.32,54.70 19.51,54.70 24.82,60.00 30.12,54.70 26.33,54.70 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CL</text>
+        </g>
+        <desc>Width:60 Height:200 Depth:60 Elevation:0</desc>
+     </g><g class="FixedFurniture Closet" fill="#ffffff" stroke="#000000" transform="matrix(0,-1,1,0,1881.0767,1007.9879)" style="fill-opacity: 1; stroke-opacity: 1;">
+        <g class="BoundaryPolygon">
+            <polygon points="0.00,0.00 59.34,0.00 59.34,60.00 0.00,60.00 "/>
+        </g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="31.17,54.70 31.17,44.08 28.16,44.08 28.16,54.70 24.35,54.70 29.66,60.00 34.96,54.70 31.17,54.70 " fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">CL</text>
+        </g>
+        <desc>Width:60 Height:200 Depth:60 Elevation:0</desc>
+     </g><g class="FixedFurniture ElectricalAppliance" fill="#ffffff" stroke="#000000" transform="matrix(0,-1.0384,1,0,1881.0767,1070.2919)" style="fill-opacity: 1; stroke-opacity: 1;">
+	    <g class="BoundaryPolygon"> 
+		    <polygon points="0,0 60,0 60,60 0,60"/>
+		</g>	
+	    <g class="electricitySign" fill="none">
+            <path d="M0,0,30.1,39.8V19.4L59.9,60"/>
+		</g>
+        <g class="Direction" fill-opacity="0.9" style="display: none;">
+            <polygon points="32.009 55.197 32.009 44.581 29 44.581 29 55.197 25.197 55.197 30.5 60 35.803 55.197 32.009 55.197" fill="#444444"/>
+        </g> 
+        <g class="Name" fill-opacity="0.9" style="display: none;">
+            <text transform="translate(3 12)" font-size="12" font-family="Verdana, Sans-Serif">HEB</text>
+        </g>
+        <desc>Width:60 Height:200 Depth:60 Elevation:0</desc>
+	</g><g transform="matrix(1,0,0,1,1566.6811,858.0176)" style="stroke-opacity: 1; fill-opacity: 0.7;" class="FixedFurniture WallCabinet" fill="#ffffff" stroke="#000000"><desc>Width:60 Height:60 Depth:50 Elevation:140</desc><g class="BoundaryPolygon"><polygon points="0.00,0.00 -30.61,0.00 -30.61,149.91 -63.76,182.34 -436.74,182.34 -465.94,151.99 -465.94,120.54 -444.52,120.54 -444.52,61.73 -466.85,61.73 -466.85,-121.50 -494.68,-121.31 -494.68,211.91 0.02,211.91 0.00,0.00 "/></g></g><g fill="#0000ff" stroke="#0000ff" style="display: none;" class="SelectionControls"><g style="display: none;" class="rotateControl"><circle cx="2102.6329562300707" cy="842.7876561665845" r="5" style="stroke : none; fill-opacity: 0.5; cursor:crosshair"/></g><g style="display: none;" class="ResizeNControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeNEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeNWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="removeControl"><polygon style="stroke : none; fill-opacity: 0.1" points="2045.49,872.79 2159.77,872.79 2159.77,912.73 2045.49,912.73 "/></g><g style="display: none;" class="copyPasteControl"><polygon style="stroke : none; fill-opacity: 0.1"/></g><g style="display: none;" class="translateControl"><polygon style="stroke : none; fill-opacity: 0.1; cursor:move" points="2045.49,872.79 2159.77,872.79 2159.77,912.73 2045.49,912.73 "/></g></g><g fill="#0000ff" stroke="#0000ff" style="display: none;" class="SelectionControls"><polygon fill="none" stroke="#0000ff" style="" points="2033.64,753.57 2168.99,753.57 2168.99,1034.11 2033.64,1034.11 "/><g style="display: none;" class="rotateControl"><circle cx="2101.3166342696213" cy="723.5673811665845" r="5" style="stroke : none; fill-opacity: 0.5; cursor:crosshair"/></g><g style="display: none;" class="ResizeNControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeNEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeNWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="removeControl"><polygon style="stroke : none; fill-opacity: 0.1"/></g><g style="display: none;" class="copyPasteControl"><polygon style="stroke : none; fill-opacity: 0.1"/></g><g style="display: none;" class="translateControl"><polygon style="stroke : none; fill-opacity: 0.1; cursor:move"/></g></g><g fill="#0000ff" stroke="#0000ff" style="display: none;" class="SelectionControls"><g style="display: none;" class="rotateControl"><circle cx="930.3148" cy="1170.506675" r="5" style="stroke : none; fill-opacity: 0.5; cursor:crosshair"/></g><g style="display: none;" class="ResizeNControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeNEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeNWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="removeControl"><polygon style="stroke : none; fill-opacity: 0.1" points="873.19,1200.51 987.44,1200.51 987.44,1240.54 873.19,1240.54 "/></g><g style="display: none;" class="copyPasteControl"><polygon style="stroke : none; fill-opacity: 0.1"/></g><g style="display: none;" class="translateControl"><polygon style="stroke : none; fill-opacity: 0.1; cursor:move" points="873.19,1200.51 987.44,1200.51 987.44,1240.54 873.19,1240.54 "/></g></g><g fill="#0000ff" stroke="#0000ff" style="display: none;" class="SelectionControls"><polygon fill="none" stroke="#0000ff" style="" points="785.73,1100.93 1059.78,1100.93 1059.78,1301.93 785.73,1301.93 "/><g style="display: none;" class="rotateControl"><circle cx="922.7520552001952" cy="1070.929" r="5" style="stroke : none; fill-opacity: 0.5; cursor:crosshair"/></g><g style="display: none;" class="ResizeNControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeNEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSEControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeSWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="ResizeNWControl"><circle cx="0" cy="0" r="5" style="stroke : none; fill-opacity: 0.5"/></g><g style="display: none;" class="removeControl"><polygon style="stroke : none; fill-opacity: 0.1"/></g><g style="display: none;" class="copyPasteControl"><polygon style="stroke : none; fill-opacity: 0.1"/></g><g style="display: none;" class="translateControl"><polygon style="stroke : none; fill-opacity: 0.1; cursor:move"/></g></g><g id="Railing" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;" class="Railing"><polygon points="786.41,1100.27 785.73,1301.93 794.73,1301.96 795.41,1100.30 " style="stroke-dasharray: 0;"/></g><g id="Railing" fill="#ffffff" stroke="#000000" style="fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2;" class="Railing"><polygon points="1060.54,1100.93 1060.05,1187.59 1069.05,1187.64 1069.53,1100.98 " style="stroke-dasharray: 0;"/></g></g></g></g></svg>
