@@ -126,7 +126,7 @@ class Room:
         self.name = '{}_{}'.format(self.type, room_type_count[self.type]+1)
         room_type_count[self.type] += 1
         self.center_point = self._get_center_point()
-        self.adjacent_doors = set()
+        self.adjacent_doors = set() # generate by calling self.get_adjacent_doors()
 
     def _get_center_point(self) -> Tuple[float, float]:
         return (mean([p[0] for p in self.points]), mean([p[1] for p in self.points]))
@@ -154,7 +154,7 @@ class Door:
         self.name = 'Door_{}'.format(idx + 1)
         
     def to_svg_polygon(self) -> 'Tag':
-        plg_attrs = {'fill' : 'none','stroke' : 'black', 'stroke-width' : 2}
+        plg_attrs = {'fill' : 'none','stroke' : 'black', 'stroke-width' : 5}
         plg_attrs['points'] = ' '.join(['{},{}'.format(p[0], p[1]) for p in self.points])
         return Tag('polygon', plg_attrs)
 
@@ -194,7 +194,6 @@ class Plan:
                 room1 = self.rooms[i]
                 room2 = self.rooms[j]
                 if room1.to_shapely_polygon().buffer(1.0).intersection(room2.to_shapely_polygon().buffer(1.0)).area > 5.0:
-                # if room1.to_shapely_polygon().overlaps(room2.to_shapely_polygon()):
                     self.relation.append((room1.name, 1, room2.name))
                 elif room1.adjacent_doors.intersection(room2.adjacent_doors):
                     self.relation.append((room1.name, 2, room2.name))
@@ -252,7 +251,7 @@ class Plan:
             svg.add(circle)
     
             t_attrs = {'font-size' : '20px', 'font-family' : 'sans-serif'}
-            t_attrs['x'] = c_attrs['cx'] - 30
+            t_attrs['x'] = c_attrs['cx'] - 50
             t_attrs['y'] = c_attrs['cy'] - 30
             text = Tag('text', t_attrs)
             text.add(room.name)
