@@ -6,6 +6,7 @@ from shapely.geometry import Polygon
 from bs4 import BeautifulSoup
 from bs4.element import Tag as bs4Tag
 from collections import defaultdict
+from queue import Queue
 
 
 room_colors = {
@@ -179,6 +180,8 @@ class Plan:
             room = Room(r, self.room_type_count)
             self.rooms.append(room)
             self.name2room[room.name] = room
+        
+        self.room_names = self.name2room.keys()
 
         for d in svg.find_all('g', attrs={'class': 'Threshold'}):
             door = Door(d, self.door_count)
@@ -270,11 +273,31 @@ class Plan:
 
         return svg
 
+    def shortest_paths_from_one_room(self, start: str) -> Dict[str, List[List[str]]]:
+        adjacency_list = self.get_adjacency_list()
+        queue = Queue()
+        queue.put([start])
+        result = {}
+        while not queue.empty():
+            current_path = queue.get()
+            last_room = current_path[-1]
+            for adjacent_room in adjacency_list[last_room]:
+                if adjacent_room not in current_path:
+                    new_path = current_path + [adjacent_room]
+                    if adjacent_room in result:
+                        if len(result[adjacent_room][0]) == len(new_path):
+                            result[adjacent_room].append(new_path)
+                            queue.put(new_path)
+                    else:
+                        result[adjacent_room] = [new_path]
+                        queue.put(new_path)
+        return result
+
 
 def main():
     n = 283
-    input_path = '../data_lyh/cubicasa5k/high_quality_architectural/{}/model.svg'.format(n)
-    output_path = '../data_lyh/vis/{}_room_new.svg'.format(n)
+    input_path = '/Users/lyh/Desktop/CS109B/floorplan/data_lyh/cubicasa5k/high_quality_architectural/{}/model.svg'.format(n)
+    output_path = '/Users/lyh/Desktop/CS109B/floorplan/data_lyh/vis/{}_room_new.svg'.format(n)
 
     with open(input_path) as f:
         content = f.read(1000000)
@@ -287,8 +310,9 @@ def main():
     # print(plan.name2door[list(plan.name2room['LivingRoom_1'].adjacent_doors)[0]].to_shapely_polygon().buffer(1.0).intersection(plan.name2room['Kitchen_1'].to_shapely_polygon()).area)
     # print(plan.name2door[list(plan.name2room['LivingRoom_1'].adjacent_doors)[0]].to_shapely_polygon().buffer(1.0).intersection(plan.name2room['LivingRoom_1'].to_shapely_polygon()).area)
     print(plan.get_adjacency_list())
-    with open(output_path, 'w') as output:
-        output.write(str(plan.generate_relation_svg()))
+    # with open(output_path, 'w') as output:
+    #     output.write(str(plan.generate_relation_svg()))
+    print(plan.shortest_paths_from_one_room('Entry_1'))
     
 
 if __name__ == "__main__":
