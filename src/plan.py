@@ -167,6 +167,7 @@ class Plan:
     def __init__(self, svg: bs4Tag):
         self.rooms = [] # parse from svg
         self.name2room = {}
+        self.name2index = {}
         self.doors = [] # parse from svg
         self.name2door = {}
         self.relation = [] # generate by calling self.generate_room_relation()
@@ -184,6 +185,8 @@ class Plan:
             self.doors.append(door)
             self.door_count += 1
             self.name2door[door.name] = door
+        
+        self.name2index = {name : i for i, name in enumerate(self.name2room)}
 
     def generate_room_relation(self) -> None:
         for room in self.rooms:
@@ -207,6 +210,14 @@ class Plan:
                 relation_adj_list[name1][name2] = label
                 relation_adj_list[name2][name1] = label
         return relation_adj_list
+
+    def get_adjacency_matrix(self) -> list:
+        relation_adj_matrix = [[0 for name in self.name2room] for name in self.name2room]
+        for name1, label, name2 in self.relation:
+            if label != 0:
+                relation_adj_matrix[self.name2index[name1]][self.name2index[name2]] = label
+                relation_adj_matrix[self.name2index[name2]][self.name2index[name1]] = label
+        return relation_adj_matrix
 
     def generate_relation_svg(self) -> 'Tag':
         attrs = {
