@@ -293,9 +293,27 @@ class Plan:
                         queue.put(new_path)
         return result
 
+    def get_depth_from_one_room(self, start: str) -> int:
+        adjacency_list = self.get_adjacency_list()
+        queue = Queue()
+        queue.put((start, 0))
+        visited = set([start])
+        max_depth = -1
+        while not queue.empty():
+            room, depth = queue.get()
+            max_depth = max(max_depth, depth)
+            for adjacent_room in adjacency_list[room]:
+                if adjacent_room not in visited:
+                    queue.put((adjacent_room, depth + 1))
+                    visited.add(adjacent_room)
+        return max_depth
+
+    def get_depth(self) -> int:
+        return max(self.get_depth_from_one_room(room) for room in self.room_names)
+
 
 def main():
-    n = 283
+    n = 41
     input_path = '/Users/lyh/Desktop/CS109B/floorplan/data_lyh/cubicasa5k/high_quality_architectural/{}/model.svg'.format(n)
     output_path = '/Users/lyh/Desktop/CS109B/floorplan/data_lyh/vis/{}_room_new.svg'.format(n)
 
@@ -309,10 +327,10 @@ def main():
     # print(list(plan.name2room['LivingRoom_1'].adjacent_doors)[0])
     # print(plan.name2door[list(plan.name2room['LivingRoom_1'].adjacent_doors)[0]].to_shapely_polygon().buffer(1.0).intersection(plan.name2room['Kitchen_1'].to_shapely_polygon()).area)
     # print(plan.name2door[list(plan.name2room['LivingRoom_1'].adjacent_doors)[0]].to_shapely_polygon().buffer(1.0).intersection(plan.name2room['LivingRoom_1'].to_shapely_polygon()).area)
-    print(plan.get_adjacency_list())
+    # print(plan.get_adjacency_list())
     # with open(output_path, 'w') as output:
     #     output.write(str(plan.generate_relation_svg()))
-    print(plan.shortest_paths_from_one_room('Entry_1'))
+    print(plan.get_depth())
     
 
 if __name__ == "__main__":
