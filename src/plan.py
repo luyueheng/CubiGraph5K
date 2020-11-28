@@ -11,7 +11,6 @@ from queue import Queue
 
 room_colors = {
     # map from class name (after Space)
-    # color the ones interested
     'Bedroom':'deepskyblue',
     'LivingRoom':'crimson',
     'Kitchen':'gold',
@@ -292,6 +291,9 @@ class Plan:
                         result[adjacent_room] = [new_path]
                         queue.put(new_path)
         return result
+    
+    def shortest_paths_between_two_rooms(self, start: str, end: str) -> List[List[str]]:
+        return self.shortest_paths_from_one_room(start)[end]
 
     def get_depth_from_one_room(self, start: str) -> int:
         adjacency_list = self.get_adjacency_list()
