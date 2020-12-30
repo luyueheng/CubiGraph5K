@@ -266,6 +266,7 @@ class Plan:
             t_attrs = {'font-size' : '20px', 'font-family' : 'sans-serif'}
             t_attrs['x'] = c_attrs['cx'] - 50
             t_attrs['y'] = c_attrs['cy'] - 30
+            t_attrs['fill'] = room_colors.get(room.type, 'grey')
             text = Tag('text', t_attrs)
             text.add(room.name)
             svg.add(text)
@@ -325,14 +326,9 @@ def main():
 
     plan = Plan(soup.find('svg'))
     plan.generate_room_relation()
-    # print(plan.name2room['Entry_1'].to_shapely_polygon().buffer(1.0).intersection(plan.name2room['Kitchen_1'].to_shapely_polygon().buffer(1.0)).area)
-    # print(list(plan.name2room['LivingRoom_1'].adjacent_doors)[0])
-    # print(plan.name2door[list(plan.name2room['LivingRoom_1'].adjacent_doors)[0]].to_shapely_polygon().buffer(1.0).intersection(plan.name2room['Kitchen_1'].to_shapely_polygon()).area)
-    # print(plan.name2door[list(plan.name2room['LivingRoom_1'].adjacent_doors)[0]].to_shapely_polygon().buffer(1.0).intersection(plan.name2room['LivingRoom_1'].to_shapely_polygon()).area)
-    # print(plan.get_adjacency_list())
     # with open(output_path, 'w') as output:
     #     output.write(str(plan.generate_relation_svg()))
-    print(plan.get_depth())
+    print(plan.shortest_paths_between_two_rooms(''))
     
 
 if __name__ == "__main__":
