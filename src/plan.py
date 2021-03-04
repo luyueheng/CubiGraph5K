@@ -313,23 +313,3 @@ class Plan:
 
     def get_depth(self) -> int:
         return max(self.get_depth_from_one_room(room) for room in self.room_names)
-
-
-def main():
-    n = 41
-    input_path = '/Users/lyh/Desktop/CS109B/floorplan/data_lyh/cubicasa5k/high_quality_architectural/{}/model.svg'.format(n)
-    output_path = '/Users/lyh/Desktop/CS109B/floorplan/data_lyh/vis/{}_room_new.svg'.format(n)
-
-    with open(input_path) as f:
-        content = f.read(1000000)
-    soup = BeautifulSoup(content, 'lxml')
-
-    plan = Plan(soup.find('svg'))
-    plan.generate_room_relation()
-    # with open(output_path, 'w') as output:
-    #     output.write(str(plan.generate_relation_svg()))
-    print(plan.shortest_paths_between_two_rooms(''))
-    
-
-if __name__ == "__main__":
-    main()
